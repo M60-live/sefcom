@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>SEC | SEFCOM ENVIRONMENTAL CONSULTING</title>
+    <meta name="description" content="ENVIRONMENTAL CONSULTING">
+    <meta name="keywords" content="SEFCOM ENVIRONMENTAL CONSULTING">
+    <meta name="robots" content="INDEX,FOLLOW">
+
+    <!-- Favicons - Place favicon.ico in the root directory -->
+    <link href="images/logo2.png" rel="icon">
+    <link href="images/logo2.png" rel="apple-touch-icon">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="images/logo2.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- css Links
+	====================================================-->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/animate.min.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/color.css">
+	<link rel="stylesheet" href="css/default-animation.css">
+	<link rel="stylesheet" href="css/word-sheet.css">
+	<link rel="stylesheet" href="css/jquery.fancybox.min.css">
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="fonts/flaticon/flaticon.css">
+	<!--====================================================
+	Typography links 
+	Import Google Fonts
+	======================================================-->
+	<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+	<!-- Favicon Icon -->
+	<link rel="shortcut icon" type="image/x-icon" href="images/Original R.png">
+</head>
+<body id="top">
+	<!-- Start Back to top
+	====================================================-->
+	<div class="bg-secondery color-white" id="scroll" style="display: inline;"><i class="fa fa-angle-up"></i></div>
+	<!-- End Back to top
+	====================================================-->
+	<!-- Start Header
+	====================================================-->
+	<header id="header" class="nav-on-banner">
+		<div class="nav-header py-10">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<nav class="navbar navbar-expand-lg navbar-light px-0">
+							<a class="navbar-brand" href="/"><img src="images/logo2_resized.png" alt="logo"></a>
+							
+							
+							<button class="toggle-btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			                    <span></span>
+			                    <span></span>
+			                    <span></span>
+		                    </button>
+							<div class="collapse navbar-collapse pt-5" id="navbarSupportedContent">
+								<ul class="navbar-nav ml-auto">
+									<li class="nav-item dropdown">
+										<a class="nav-link dropdown-toggle" href="/" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
+										<ul class="dropdown-menu"> 
+											<li><a class="dropdown-item" href="/about-us">About us</a></li>
+											<li><a class="dropdown-item" href="/vision">Vision</a></li>
+                                            <li class="nav-item dropdown">
+										    <a class="nav-link pl-4" href="index.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mission</a>
+                                            <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="index.html">Core Environmental & Water Resource Services</a></li>
+											<li><a class="dropdown-item" href="index-2.html">Environmental Data Science & Analytics</a></li>
+											<li><a class="dropdown-item" href="index-3.html">Power BI Development & Executive Dashboards</a></li>
+                                            <li><a class="dropdown-item" href="index-3.html">Machine Learning Applications for Environmental Systems</a></li>
+                                            <li><a class="dropdown-item" href="index-3.html">Artificial Intelligence (AI) for Environmental Governance</a></li>
+                                            <li><a class="dropdown-item" href="index-3.html">Digital Transformation</a></li>
+                                            </ul>
+										</ul>
+									</li>
+
+									<li class="nav-item"><a class="nav-link" href="/services">Services</a></li>
+									
+									
+									<li class="nav-item"><a class="nav-link" href="/contact-us">Contact</a></li>
+									
+								</ul>
+							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<!-- End Header
+	====================================================-->
+
+
+
+
+
+	@yield('content')
+
+
+
+
+
+    
+	<!-- jquery Links
+	====================================================-->
+	<script src="js/jquery-v3.4.1.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/isotope.pkgd.min.js"></script>
+	<script src="js/imagesloaded.pkgd.min.js"></script>
+	<script src="js/particles.min.js"></script>
+	<script src="js/main.js"></script>
+	<script src="js/wow.js"></script> 
+	<script src="js/jquery.fancybox.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/YouTubePopUp.jquery.js"></script>
+	<script src="js/plugin.js"></script>
+	<script src="js/custom.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js" integrity="sha384-G/EV+4j2dNv+tEPo3++6LCgdCROaejBqfUeNjuKAiuXbjrxilcCdDz6ZAVfHWe1Y" crossorigin="anonymous"></script>
+</body>
+</html>

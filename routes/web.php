@@ -1,0 +1,47 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider and all of them will
+| be assigned to the "web" middleware group. Make something great!
+|
+*/
+
+Route::view('/','index');
+
+Route::view('/about-us','about-us');
+
+Route::view('/services', 'services');
+
+/* SD */
+
+Route::view('/feasibility-studies', 'sd/feasibility-studies');
+
+Route::view('/hydrology', 'sd/hydrology');
+
+Route::view('/hydrogeology', 'sd/hydrogeology');
+
+Route::view('/soil-science', 'sd/soil-science');
+
+Route::view('/geochemistry', 'sd/geochemistry');
+
+Route::view('/environmental-assessment', 'sd/environmental-assessment');
+
+Route::view('/hydropower', 'sd/hydropower');
+
+Route::view('/infrastructure', 'sd/infrastructure');
+
+Route::view('/energy', 'sd/energy');
+
+Route::view('/geotechnical-services', 'sd/geotechnical-services');
+
+Route::view('/geographical-information-systems', 'sd/geographical-information-systems');
+
+Route::view('/laboratory-services', 'sd/laboratory-services');
+
