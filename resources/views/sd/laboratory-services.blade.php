@@ -7,11 +7,11 @@
 			<div class="banner-text text-center">
 				<div class="row">
 					<div class="col-md-12 col-lg-12">
-						<h1 class="position-relative va-c-line-w50-h1-primary pb-15 mb-20 color-white">Integrated Data Science & AI Modelling</h1>
+						<h1 class="position-relative va-c-line-w50-h1-primary pb-15 mb-20 color-white">Laboratory Services</h1>
 						<nav class="breadcrumb-one d-table m-auto bg-white px-30" aria-label="breadcrumb">
 						  <ol class="breadcrumb bg-transparent mb-0">
 						    <li class="breadcrumb-item"><a href="/">Home</a></li>
-						    <li class="breadcrumb-item active" aria-current="page">Integrated Data Science & AI Modelling Details</li>
+						    <li class="breadcrumb-item active" aria-current="page">Laboratory Services Details</li>
 						  </ol>
 						</nav>
 					</div>
@@ -38,48 +38,57 @@
 							</div>
 							<div class="col-md-12 col-lg-12">
 								<div class="text-area">
-									<h3 class="my-30 color-secondery">Integrated Data Science and AI Modelling</h3>
-									<p class="mb-15">Sefcom Environmental Consulting (SEC) delivers advanced data science, applied scientific computing, machine learning, and artificial intelligence solutions embedded across our environmental, water, mining, energy, infrastructure, and geospatial services.</p>
-									<p> Our capability is built on strong foundations in physical measurement systems, computational science, and environmental domain expertise, enabling us to transform complex, noisy, and disparate datasets into predictive, regulator-ready intelligence.</p>
-									<p>We integrate sensor systems, geospatial analytics, applied statistics, and scalable software engineering to solve high-impact environmental and resource-sector challenges.</p>
-									<h5 class="pt-4">Core Technical Capabilities:</h5>
+									<h3 class="my-30 color-secondery">Environmental Laboratory Support and Fieldwork Integration</h3>
+									<p class="mb-15">Sefcom Environmental Consulting (SEC) provides integrated laboratory coordination and analytical support services to ensure accurate, defensible, and regulator-ready environmental data across mining, infrastructure, energy, water, and industrial projects.</p>
+									<p> While SEC operates as an independent environmental advisory firm, we facilitate sampling design, chain-of-custody control, and sample submission to accredited, full-service analytical laboratories internationally. All laboratories engaged operate under recognised accreditation frameworks (e.g., ISO/IEC 17025), ensuring data quality, traceability, and compliance with regulatory standards.</p>
+									<p>Our laboratory coordination services are aligned with environmental governance requirements, compliance reporting frameworks, and ESG performance monitoring systems.</p>
+									<h5 class="pt-4">Core Laboratory & Analytical Support Services:</h5>
 									
 									<ul class="pt-2">
-                                        <h5 class="color-secondery">Scientific Data Acquisition & Systems Integration</h5>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Design and integration of physical measurement systems (optical, electromagnetic, radiometric, gravity-based)</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental sensor deployment and data acquisition systems</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Processing of complex, noisy, and multi-source physical datasets</li>
+                                        <h5 class="color-secondery">Water Analysis</h5>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Surface water, groundwater, process water, and effluent analysis</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Major ions, trace metals, nutrients, TSS, salinity, and physico-chemical parameters</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Acid Rock Drainage (ARD) and Acid Mine Drainage (AMD) indicators</li>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Compliance monitoring aligned with licence conditions and water quality objectives</li>
                                         
-										<h5 class="color-secondery pt-2">Advanced Analytics & Applied Statistics</h5>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Multivariate analysis and time-series forecasting</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Physics-informed environmental modelling</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Geospatial analysis and spatial data integration</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Statistical compliance and trend evaluation</li>
+										<h5 class="color-secondery pt-2">Geochemical Characterisation</h5>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Acid–Base Accounting (ABA)</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Static and kinetic leach testing (e.g., humidity cell testing)</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Metal leachability and contaminant mobility assessment</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Tailings and waste rock geochemical profiling</li>
                                         
 									
-                                        <h5 class="color-secondery pt-2">Machine Learning & Predictive Modelling</h5>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Predictive modelling for hydrological, hydrogeological, geochemical, and geotechnical systems</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Anomaly detection and early-warning systems</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Geospatial ML and geostatistical modelling</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Mineral exploration analytics under sparse-data conditions</li>
-                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Image processing and computer vision for drone and remote sensing data</li>
+                                        <h5 class="color-secondery pt-2">Soil Characterisation</h5>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Physical and chemical soil properties</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Contamination screening (metals, hydrocarbons, organics)</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Agricultural suitability and rehabilitation assessment inputs</li>
 										
                                         
-										<h5 class="color-secondery pt-2">Scalable Digital & Cloud Architecture</h5>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Python-based scientific computing and modelling workflows</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>SQL and non-relational database systems</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Cloud computing and distributed processing</li>
-                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>CI/CD pipelines, automated testing, and collaborative software development (Git)</li>
-										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Interactive dashboards and automated reporting platforms</li>
+										<h5 class="color-secondery pt-2">Air Quality Analysis</h5>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Particulate matter (PM10 / PM2.5) analysis</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Dust fallout and deposition monitoring</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Ambient air quality compliance parameters</li>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Emissions-related analytical support</li>
+                                        
 
-                                        <h5 class="color-secondery pt-2">Integrated Application Across SEC Services</h5>
-                                        <p>Our AI and modelling capability strengthen:</p>
-                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i><b>Hydrology & Hydrogeology</b>- predictive groundwater and flood analytics</li>
-                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i><b>Geochemistry</b>- ARD/AMD forecasting and contaminant transport modelling</li>
-                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i><b>Geotechnical</b>- stability modelling and performance prediction</li>
-                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i><b>GIS & Drone Survey</b>- automated spatial analysis and change detection</li>
-                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i><b>Energy & Infrastructure</b>- climate risk and asset optimisation modelling</li>
-                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i><b>Environmental Assessment</b>- compliance automation and risk quantification</li>
+                                        <h5 class="color-secondery pt-2">Specialised Analytical Services</h5>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Cyanide and arsenic speciation</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Hydrocarbon and petroleum-related compound analysis</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Isotopic and tracer studies</li>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Radiometric and specialised mineralogical testing</li>
+							
+
+                                        <h5 class="color-secondery pt-2">Integrated Data Quality & Governance</h5>
+                                        <p>SEC ensures that laboratory data integrates seamlessly into:</p>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental compliance reporting</li>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Water stewardship and ESG dashboards</li>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Risk-based environmental assessments</li>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Predictive modelling and AI-driven analytics systems</li>
+                                        <p>Our structured laboratory coordination framework ensures:</p>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Proper sampling protocols and QA/QC oversight</li>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Chain-of-custody management</li>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Data validation and interpretation</li>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Regulator-ready reporting</li>
 
 
 									</ul>
@@ -91,7 +100,7 @@
 				<div class="col-md-12 col-lg-4 col-xl-3">
 					<div class="side-menu-list bg-gray">
 						<ul>
-							<li><a class="active" href="#">Integrated Data Science & AI Modelling</a></li>
+							<li><a class="active" href="#">Laboratory Services</a></li>
 							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
 							<li><a  href="/hydrology">Hydrology</a></li> 
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
@@ -102,7 +111,7 @@
 							<li><a  href="/infrastructure">Infrastructure</a></li> 
 							<li><a  href="/energy-&-energy-transition">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey </a></li>
-							<li><a  href="/laboratory-services">Laboratory Services</a></li>
+							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling </a></li>
 							<li><a  href="/environmental-monitoring-equipment-supply">Environmental Monitoring Equipment Supply</a></li>
                             <li><a  href="/geochemistry">Geochemistry</a></li>
 						</ul>

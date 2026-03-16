@@ -47,7 +47,7 @@
 						<div class="card-body">
 							<h5 class="card-title box-title-4 my-20 color-secondery">Mining Solutions</h5>
 							
-							<a href="/services" class="btn btn-primary"style="background: #4BAF47; border: none;">More</a>
+							
 						</div>
 					</div>
 		        </div>
@@ -57,7 +57,7 @@
 						<div class="card-body">
 							<h5 class="card-title box-title-4 my-20 color-secondery sr-2">Energy & Infrastructure</h5>
 							
-							<a href="/services" class="btn btn-primary"style="background: #4BAF47; border: none;">More</a>
+							
 						</div>
 					</div>
 		        </div>
@@ -66,7 +66,7 @@
 						<img src="images/home/water_monitoring.png" class="card-img-top" alt="...">
 						<div class="card-body">
 							<h5 class="card-title box-title-4 my-20 color-secondery">Water Monitoring</h5>
-							<a href="/services" class="btn btn-success" style="background: #4BAF47; border: none;">More</a>
+							
 						</div>
 					</div>
 		        </div>
@@ -75,7 +75,7 @@
 						<img src="images/home/environmental_monitoring.png" class="card-img-top" alt="...">
 						<div class="card-body">
 							<h5 class="card-title box-title-4 my-20 color-secondery">Environmental Monitoring</h5>
-							<a href="/services" class="btn btn-success" style="background: #4BAF47; border: none;">More</a>
+							
 						</div>
 					</div>
 		        </div>
@@ -84,7 +84,7 @@
 						<img src="images/home/environmental_data_analytics.png" class="card-img-top" alt="...">
 						<div class="card-body">
 							<h5 class="card-title box-title-4 my-20 color-secondery">Environmental Data Analytics</h5>
-							<a href="/services" class="btn btn-success" style="background: #4BAF47; border: none;">More</a>
+							
 						</div>
 					</div>
 		        </div>
