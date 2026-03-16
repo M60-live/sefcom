@@ -29,13 +29,11 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="fonts/flaticon/flaticon.css">
 	<!--====================================================
-	Typography links 
+	Typography links
 	Import Google Fonts
 	======================================================-->
 	<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
 
 	<!-- Favicon Icon -->
 	<link rel="shortcut icon" type="image/x-icon" href="images/Original R.png">
@@ -55,8 +53,7 @@
 					<div class="col-lg-12">
 						<nav class="navbar navbar-expand-lg navbar-light px-0">
 							<a class="navbar-brand" href="/"><img src="images/logo2_resized.png" alt="logo"></a>
-							
-							
+
 							<button class="toggle-btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			                    <span></span>
 			                    <span></span>
@@ -71,28 +68,28 @@
 											<a class="nav-link pl-4" href="/about-us">About Us</a>
 										    <a class="nav-link pl-4" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mission</a>
                                             <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="/core-environmental-and-water-resource-services">Core Environmental & Water Resource Services</a></li>
-											<li><a class="dropdown-item" href="/environmental-data-science-and-analytics">Environmental Data Science & Analytics</a></li>
-											<li><a class="dropdown-item" href="/power-bi-development-and-executive-dashboards">Power BI Development & Executive Dashboards</a></li>
-                                            <li><a class="dropdown-item" href="/machine-learning-applications-for-environmental-systems">Machine Learning Applications for Environmental Systems</a></li>
-                                            <li><a class="dropdown-item" href="/artificial-intelligence-ai-for-environmental-governance">Artificial Intelligence (AI) for Environmental Governance</a></li>
-                                            <li><a class="dropdown-item" href="/digital-transformation">Digital Transformation</a></li>
+                                                <li><a class="dropdown-item" href="/core-environmental-and-water-resource-services">Core Environmental & Water Resource Services</a></li>
+                                                <li><a class="dropdown-item" href="/environmental-data-science-and-analytics">Environmental Data Science & Analytics</a></li>
+                                                <li><a class="dropdown-item" href="/power-bi-development-and-executive-dashboards">Power BI Development & Executive Dashboards</a></li>
+                                                <li><a class="dropdown-item" href="/machine-learning-applications-for-environmental-systems">Machine Learning Applications for Environmental Systems</a></li>
+                                                <li><a class="dropdown-item" href="/artificial-intelligence-ai-for-environmental-governance">Artificial Intelligence (AI) for Environmental Governance</a></li>
+                                                <li><a class="dropdown-item" href="/digital-transformation">Digital Transformation</a></li>
                                             </ul>
 										</ul>
 									</li>
 
 									<li class="nav-item dropdown">
 										<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
-										<ul class="dropdown-menu" style="max-width: 200px; overflow-y: scroll;" > 
-											<li><a class="dropdown-item" href="/feasibility-studies">Feasibility and Project Development</a></li> 
+										<ul class="dropdown-menu" style="max-width: 200px; overflow-y: scroll;" >
+											<li><a class="dropdown-item" href="/feasibility-studies">Feasibility and Project Development</a></li>
 											<li><a class="dropdown-item" href="/hydrology">Hydrology</a></li>
-											<li><a class="dropdown-item" href="/hydrogeology">Hydrogeology</a></li> 
+											<li><a class="dropdown-item" href="/hydrogeology">Hydrogeology</a></li>
 											<li><a class="dropdown-item" href="/geochemistry">Geochemistry</a></li>
-											<li><a class="dropdown-item" href="/soil-science">Soil Science</a></li> 
+											<li><a class="dropdown-item" href="/soil-science">Soil Science</a></li>
 											<li><a class="dropdown-item" href="/geotechnical-services">Geotechnical Services</a></li>
-											<li><a class="dropdown-item" href="/hydropower">Hydropower</a></li> 
+											<li><a class="dropdown-item" href="/hydropower">Hydropower</a></li>
 											<li><a class="dropdown-item" href="/infrastructure">Infrastructure</a></li>
-											<li><a class="dropdown-item" href="/energy">Energy & Energy Transition</a></li> 
+											<li><a class="dropdown-item" href="/energy">Energy & Energy Transition</a></li>
 											<li><a class="dropdown-item" href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 											<li><a class="dropdown-item" href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 											<li><a class="dropdown-item" href="/laboratory-services">Laboratory Services</a></li>
@@ -100,10 +97,9 @@
 											<li><a class="dropdown-item" href="/environmental-assessment">Environmental Assessment</a></li>
 										</ul>
 									</li>
-									
-									
+
 									<li class="nav-item"><a class="nav-link" href="/contact-us">Contact</a></li>
-									
+
 								</ul>
 							</div>
 						</nav>
@@ -115,17 +111,8 @@
 	<!-- End Header
 	====================================================-->
 
-
-
-
-
 	@yield('content')
 
-
-
-
-
-    
 	<!-- jquery Links
 	====================================================-->
 	<script src="js/jquery-v3.4.1.js"></script>
@@ -134,13 +121,11 @@
 	<script src="js/imagesloaded.pkgd.min.js"></script>
 	<script src="js/particles.min.js"></script>
 	<script src="js/main.js"></script>
-	<script src="js/wow.js"></script> 
+	<script src="js/wow.js"></script>
 	<script src="js/jquery.fancybox.min.js"></script>
 	<script src="js/owl.carousel.min.js"></script>
 	<script src="js/YouTubePopUp.jquery.js"></script>
 	<script src="js/plugin.js"></script>
 	<script src="js/custom.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js" integrity="sha384-G/EV+4j2dNv+tEPo3++6LCgdCROaejBqfUeNjuKAiuXbjrxilcCdDz6ZAVfHWe1Y" crossorigin="anonymous"></script>
 </body>
 </html>

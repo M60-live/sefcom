@@ -9,9 +9,8 @@
 				<div class="col-md-12 col-lg-12 h-100">
 					<div class="banner-content y-middle color-dark z-index-1 w-60 lg-w-80 position-relative">
 
-						
+                        <h3>Sefcom Provides</h3>
 						<h1 class="banner-title cd-headline clip is-full-width">
-							Sefcom Provides <br>
 							<span class="cd-words-wrapper color-primary">
 								<b class="is-visible">Environmental Intelligence</b>
 								<b>Water Governance</b>
@@ -46,8 +45,8 @@
 						<img src="images/home/mining_solutions.png" class="card-img-top" alt="...">
 						<div class="card-body">
 							<h5 class="card-title box-title-4 my-20 color-secondery">Mining Solutions</h5>
-							
-							
+
+
 						</div>
 					</div>
 		        </div>
@@ -56,8 +55,8 @@
 						<img src="images/home/energy_infrastructure.png" class="card-img-top" alt="...">
 						<div class="card-body">
 							<h5 class="card-title box-title-4 my-20 color-secondery sr-2">Energy & Infrastructure</h5>
-							
-							
+
+
 						</div>
 					</div>
 		        </div>
@@ -66,7 +65,7 @@
 						<img src="images/home/water_monitoring.png" class="card-img-top" alt="...">
 						<div class="card-body">
 							<h5 class="card-title box-title-4 my-20 color-secondery">Water Monitoring</h5>
-							
+
 						</div>
 					</div>
 		        </div>
@@ -75,7 +74,7 @@
 						<img src="images/home/environmental_monitoring.png" class="card-img-top" alt="...">
 						<div class="card-body">
 							<h5 class="card-title box-title-4 my-20 color-secondery">Environmental Monitoring</h5>
-							
+
 						</div>
 					</div>
 		        </div>
@@ -84,7 +83,7 @@
 						<img src="images/home/environmental_data_analytics.png" class="card-img-top" alt="...">
 						<div class="card-body">
 							<h5 class="card-title box-title-4 my-20 color-secondery">Environmental Data Analytics</h5>
-							
+
 						</div>
 					</div>
 		        </div>
