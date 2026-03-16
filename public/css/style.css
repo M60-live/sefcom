@@ -4468,6 +4468,11 @@ header.header-4.header-fixed .logo-box,
   .bi-check-circle-fill {
   background-color:#4BAF47;
   }
+
+  .dropdown-menu{
+    max-height: 200px;
+    overflow-y: scroll;
+  }
 }
 
 

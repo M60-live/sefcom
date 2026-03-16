@@ -82,7 +82,25 @@
 										</ul>
 									</li>
 
-									<li class="nav-item"><a class="nav-link" href="/services">Services</a></li>
+									<li class="nav-item dropdown">
+										<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+										<ul class="dropdown-menu" style="max-width: 200px; overflow-y: scroll;" > 
+											<li><a class="dropdown-item" href="/feasibility-studies">Feasibility and Project Development</a></li> 
+											<li><a class="dropdown-item" href="/hydrology">Hydrology</a></li>
+											<li><a class="dropdown-item" href="/hydrogeology">Hydrogeology</a></li> 
+											<li><a class="dropdown-item" href="/geochemistry">Geochemistry</a></li>
+											<li><a class="dropdown-item" href="/soil-science">Soil Science</a></li> 
+											<li><a class="dropdown-item" href="/geotechnical-services">Geotechnical Services</a></li>
+											<li><a class="dropdown-item" href="/hydropower">Hydropower</a></li> 
+											<li><a class="dropdown-item" href="/infrastructure">Infrastructure</a></li>
+											<li><a class="dropdown-item" href="/energy-and-energy-transition">Energy & Energy Transition</a></li> 
+											<li><a class="dropdown-item" href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
+											<li><a class="dropdown-item" href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
+											<li><a class="dropdown-item" href="/laboratory-services">Laboratory Services</a></li>
+											<li><a class="dropdown-item" href="/environmental-monitoring-equipment-supply">Environmental Monitoring Equipment Supply</a></li>
+											<li><a class="dropdown-item" href="/environmental-assessment">Environmental Assessment</a></li>
+										</ul>
+									</li>
 									
 									
 									<li class="nav-item"><a class="nav-link" href="/contact-us">Contact</a></li>

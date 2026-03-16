@@ -1,137 +1,118 @@
 @extends('layouts.top-layout')
 @section('content')
-<!--==============================
-    Breadcumb
-    ============================== -->
-    <div class="breadcumb-wrapper" data-bg-src="assets/img/bg/soil-test-and-geotechnical-services.jpg">
-        <!-- bg animated image/ -->
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="breadcumb-content">
-                        <h1 class="breadcumb-title">Geotechnical Services</h1>
-                        <ul class="breadcumb-menu">
-                            <li><a href="/">Home</a></li>
-                            <li class="active">Geotechnical Services</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+<!-- Banner One Start
+	====================================================-->
+	<div class="page-banner overlay-secondery-8" style="background: url(images/background/2.jpg) bottom center/ cover; padding: 150px 0;">
+		<div class="container">
+			<div class="banner-text text-center">
+				<div class="row">
+					<div class="col-md-12 col-lg-12">
+						<h1 class="position-relative va-c-line-w50-h1-primary pb-15 mb-20 color-white">Geotechnical Services</h1>
+						<nav class="breadcrumb-one d-table m-auto bg-white px-30" aria-label="breadcrumb">
+						  <ol class="breadcrumb bg-transparent mb-0">
+						    <li class="breadcrumb-item"><a href="/">Home</a></li>
+						    <li class="breadcrumb-item active" aria-current="page">Geotechnical Services Details</li>
+						  </ol>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Banner One End
+	====================================================-->
+	<!-- Start Service Details
+	====================================================-->
+	<div class="py-80">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-lg-8 col-xl-9">
+					<div class="service-details-one">
+						<div class="row">
+							<div class="col-md-12 col-lg-12">
+								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
+									<img src="images/other/2.jpg" alt="images">
+									<img src="images/other/3.jpg" alt="images">
+									
+								</div>
+							</div>
+							<div class="col-md-12 col-lg-12">
+								<div class="text-area">
+									<h3 class="my-30 color-secondery">Geotechnical Assessment and Modelling</h3>
+									<p class="mb-15">Sefcom Environmental Consulting (SEC) delivers integrated geotechnical advisory and engineering services that support safe, stable, and climate-resilient mining and infrastructure development.</p>
+									<p> We provide risk-informed geotechnical solutions to minimise instability, protect assets, and ensure regulatory compliance across the full project lifecycle, from investigation and design through operations and closure. Our multidisciplinary teams combine expertise in geotechnical engineering, rock and soil mechanics, geological engineering, hydrology, hydrogeology, and tailings systems to deliver technically defensible and operationally practical outcomes.</p>
+									<h5 class="pt-4">Core Geotechnical Capabilities:</h5>
+									
+									<ul class="pt-2">
+                                        <h5 class="color-secondery">Geotechnical Investigation & Site Characterisation</h5>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Mining geotechnical investigations</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Subsurface profiling and material characterisation</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Rock mass and soil mechanics assessment</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Integration with structural geology and hydrogeology inputs</li>
 
-        </div>
-    </div>
+                                        <h5 class="color-secondery pt-2">Mining & Infrastructure Stability</h5>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Open pit slope stability assessment</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Underground excavation and tunnel stability</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Cut roads and civil earthworks stability</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Tailings storage facility (TSF) geotechnical support</li>
+										
+                                        <h5 class="color-secondery pt-2">Geotechnical Numerical Modelling</h5>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>2D and 3D stability modelling</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Stress–strain and deformation analysis</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Seepage–stability interaction modelling</li>
+                                        <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Risk-based scenario and sensitivity analysis</li>
+										
+                                        <h5 class="color-secondery pt-2">Operational Geotechnical Support</h5>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Ongoing slope and ground performance monitoring</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Hazard identification and risk mitigation planning</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Design review and technical assurance</li>
+										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Closure stability and long-term performance assessment</li>
 
-    <!--==============================
-    Service Details 02
-    ==============================-->
-    <div class="service-details-area space-top space-extra-bottom overflow-hidden">
-        <div class="container container2">
-            <div class="row gx-30 flex-row-reverse">
-
-                <div class="col-xxl-8 col-lg-7">
-                    <div class="service-page-single">
-                        <div class="page-img mb-40">
-                            <img src="assets/img/update/service/1-Investigations-477x348.jpg" alt="img">
-                        </div>
-                        <div class="page-content">
-                            <h2 class="page-title">Geotechnical Services</h2>
-                            <p class="mb-30">SEC offers geotechnical services to mining and other projects to ensure safety and avoid
-costly consequences of geotechnical instability through targeted surveys, operational
-support, and risk management. Our geotechnical professionals have extensive experience in
-the design and operation of stable underground mine structures, slopes, tunnels, cut roads
-and tailings ponds. Our teams of experts, made up of geotechnical, civil, rock and soil
-mechanics, and geological engineers, work closely with those responsible for structural
-geology, hydrogeology, hydrology, tailings, geological environment, mining engineering, and
-mine site closure.</p>
-                            <div class="row flex-row-reverse">
-                                <div class="col-xl-6 col-lg-12 col-md-6">
-                                    <div class="page-img mb-30">
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 col-lg-12 col-md-6">
-                                    <div class="service-wrap">
-                                        <h3 class="page-subtitle mb-15">Service lists</h3>
-                                        <p>Our services include:</p>
-                                        <div class="checklist mb-30 mt-25">
-                                            <ul>
-                                                <li><i class="fas fa-check-circle"></i>Geotechnical Mining Infrastructure</li>
-                                                <li><i class="fas fa-check-circle"></i>Mining Geotechnical Investigation</li>
-                                                <li><i class="fas fa-check-circle"></i>Mechanics of subterranean rocks</li>
-                                                <li><i class="fas fa-check-circle"></i>Slope stability</li>
-                                                <li><i class="fas fa-check-circle"></i>Geotechnical Numerical Modeling</li>
-                                                <li><i class="fas fa-check-circle"></i>Geotechnical Operational Support</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xxl-4 col-lg-5">
-                    <aside class="sidebar-area">
-                        <div class="widget widget_service_list">
-                            <h3 class="widget_title">Service lists</h3>
-                            <ul>
-                                <li>
-                                    <a class="active" href="#">Geotechnical Services</a>
-                                </li>
-                                <li>
-                                    <a href="/hydrology">Hydrology</a>
-                                </li>
-                                <li>
-                                    <a href="/hydrogeology">Hydrogeology</a>
-                                </li>
-                                <li>
-                                    <a href="/soil-science">Soil Science</a>
-                                </li>
-                                <li>
-                                    <a href="/geochemistry">Geochemistry</a>
-                                </li>
-                                <li>
-                                    <a href="/environmental-assessment">Environmental Assessment</a>
-                                </li>
-                                <li>
-                                    <a href="/hydropower">Hydropower</a>
-                                </li>
-                                <li>
-                                    <a href="/infrastructure">Infrastructure</a>
-                                </li>
-                                <li>
-                                    <a href="/energy">Energy</a>
-                                </li>
-                                <li>
-                                    <a href="/feasibility-studies">Feasibility Studies</a>
-                                </li>
-                                <li>
-                                    <a href="/geographical-information-systems">Geographical Information Systems</a>
-                                </li>
-                                <li>
-                                    <a href="/laboratory-services">Laboratory Services</a>
-                                </li>
-                                <li>
-                                    <a href="/sales-and-marketing">Sales and Marketing</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="widget widget_banner" data-bg-src="assets/img/widget/c.jpg">
-                            <div class="widget-banner-wrap">
-                                <div class="icon"><i class="fas fa-phone-alt"></i></div>
-                                <div class="subtitle">For More Info</div>
-                                <h4 class="title">+27 71 723 4937</h4>
-                                <p class="text">Get in touch with us today</p>
-                            </div>
-                        </div>
-                    </aside>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-12 col-lg-4 col-xl-3">
+					<div class="side-menu-list bg-gray">
+						<ul>
+							<li><a class="active" href="#">Geotechnical Services</a></li>
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
+							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/hydrogeology">Hydrogeology</a></li>
+							<li><a  href="/geochemistry">Geochemistry</a></li> 
+							<li><a  href="/soil-science">Soil Science</a></li>
+							<li><a  href="/hydropower">Hydropower</a></li> 
+							<li><a  href="/infrastructure">Infrastructure</a></li>
+							<li><a  href="/energy-and-energy-transition">Energy & Energy Transition</a></li> 
+							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
+							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
+							<li><a  href="/laboratory-services">Laboratory Services</a></li>
+							<li><a  href="/environmental-monitoring-equipment-supply">Environmental Monitoring Equipment Supply</a></li>
+                            <li><a  href="/environmental-assessment">Environmental Assessment</a></li>
+						</ul>
+					</div>
+					<div class="side-contact py-40 px-30 mt-30 bg-gray">
+						<h3 class="position-relative va-lb-line-w50-h2-primary pb-15 mb-30 color-secondery">Contact Us</h3>
+						<ul class="color-dark icon-primary link-list-b-15">
+							<h6><b>South Africa</b></h6>
+							<li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span>  +27 71 723 4937</li>
+							<h6><b>Ghana</b></h6>
+							<li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span>  +233 24 514 2414</li>
+							<h6><b>Head Office-South Africa</b></h6>
+							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>28 Lemoendoring Street, Weltevredenpark, 1709, Johannesburg, South Africa</li>
+							<h6><b>Ghana Office</b></h6>
+							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
+						</ul>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Service Details
+	====================================================-->
 
 
 

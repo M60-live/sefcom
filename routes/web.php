@@ -45,3 +45,6 @@ Route::view('/geographical-information-systems', 'sd/geographical-information-sy
 
 Route::view('/laboratory-services', 'sd/laboratory-services');
 
+Route::view('/gis-and-drone-survey', 'sd/gis-and-drone-survey');
+
+Route::view('/integrated-data-science-and-ai-modelling', 'sd/integrated-data-science-and-ai-modelling');
