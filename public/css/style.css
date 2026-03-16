@@ -1,5 +1,5 @@
 /**
-  
+
 * Template Name: Expoge - Multipurpose Business HTML Template
 * Version 1.0
 * Author: themetrading
@@ -20,18 +20,18 @@
 04. Default Margin & Padding CSS
 05. Buttons CSS
 06. Accordion
-07. List item 
+07. List item
 06. Accordion
 08. Header
 09. Main Banner
-10. Box Style 
-11. Video Popup 
+10. Box Style
+11. Video Popup
 12. Achivement
 13. About us
 14. Video
 15. Gallery
 16. Working Process
-17. Team Style 
+17. Team Style
 18. Testimonial
 19. Newsletter
 20. Footer
@@ -1267,7 +1267,7 @@ button.toggle-btn{
 .accordion-three .card-header button.collapsed:after{
     content: "\f106";
 }
-/*  07. List item 
+/*  07. List item
 ================================================================*/
 /* List item 1
 -------------------*/
@@ -1476,7 +1476,7 @@ header.header-fixed .top-header{
   width: 7px !important;
 }
 ::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px #051929 !important; 
+  box-shadow: inset 0 0 5px #051929 !important;
 }
 #hamburger-button > span {
   display: block;
@@ -1553,14 +1553,14 @@ canvas {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%; 
+  height: 100%;
 }
 .banner-content p,
 .page-banner p{
   font-size: 18px;
   line-height: 30px;
 }
-/*  10. Box Style 
+/*  10. Box Style
 ================================================================*/
 /* Box style 1
 ---------------------*/
@@ -1585,7 +1585,7 @@ canvas {
 .shadow-smooth-black-01-hov:hover{
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
 }
-/*  Box Style 2 
+/*  Box Style 2
 -----------------------------*/
 .box-title-2{
     position: absolute;
@@ -1767,7 +1767,7 @@ canvas {
   width: 200px;
   height: 200px;
   border-radius: 100%;
-  opacity: 0.1; 
+  opacity: 0.1;
 }
 .box-style-6:after{
   content: "";
@@ -1777,7 +1777,7 @@ canvas {
   width: 150px;
   height: 150px;
   border-radius: 100%;
-  opacity: 0.1; 
+  opacity: 0.1;
 }
 .box-style-3 i{
     display: table;
@@ -1804,7 +1804,7 @@ canvas {
     left: 0;
     right: 0;
 }
-/*  11.  Video Popup 
+/*  11.  Video Popup
 ================================================================*/
 .personal-video a{
     width: 80px;
@@ -2357,7 +2357,7 @@ canvas {
 	border: 1px solid #eee;
 	padding: 10px
 }
-/*  17.  Team Style 
+/*  17.  Team Style
 ================================================================*/
 /* Team Style one
 ---------------------*/
@@ -2558,7 +2558,7 @@ canvas {
 -------------------------*/
 .newsletter-style-1{
   max-width: 350px;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 .newsletter-style-1 .form-control{
   height: 40px;
@@ -2585,7 +2585,7 @@ canvas {
 	margin: 0 auto;
 	text-align: center;
 	position: relative;
-	z-index: 2; 
+	z-index: 2;
 }
 .newsletter-style-2 .form-control{
 	height: 50px;
@@ -2597,7 +2597,7 @@ canvas {
 	box-shadow: none;
 }
 .newsletter-style-2 .btn-newsletter{
-	min-height: 50px; 
+	min-height: 50px;
 	border-radius:0;
 	padding-left: 40px;
 	padding-right: 40px;
@@ -2617,7 +2617,7 @@ canvas {
 }
 .footer-2 .footer-text-area{
 	width: 85%;
-}	
+}
 .footer-widget ul.widget-contact-info li,
 .side-contact li{
 	display: flex;
@@ -2689,7 +2689,7 @@ ul.footer-3-contact li .fa{
 .owl-carousel.partners-one{
 	margin-top: 65px;
 }
-/* Project 
+/* Project
 -----------------------*/
 .project-hover-1{
   position: absolute;
@@ -2742,7 +2742,7 @@ ul.footer-3-contact li .fa{
 	top: 0;
 	left: auto;
 	right: 0;
- 	background: url(../images/background/12.jpg) no-repeat 65% 0% /cover;
+ 	background: url(../images/services/Energy.jpg) no-repeat 65% 0% /cover;
  	width: 35%;
  	height: 100%;
 }
@@ -2928,7 +2928,7 @@ ul.footer-3-contact li .fa{
 .sidebar-widget ul li:last-child{
 	margin-bottom: 0px;
 }
-/* Map Style 
+/* Map Style
 -----------------------*/
 #map {
     height: 500px;
@@ -3637,8 +3637,8 @@ header.header-4.header-fixed .logo-box,
 ==============================================================*/
 @media (min-width: 992px) {
    /*-------annimation dropdown---------*/
-   .navbar .navbar-nav > .active > a, 
-   .navbar .navbar-nav > .active:hover > a, 
+   .navbar .navbar-nav > .active > a,
+   .navbar .navbar-nav > .active:hover > a,
    .navbar .navbar-nav > .active > a:focus{
     background-color: transparent;
     -moz-transition: all 300ms ease-in-out 0s;
@@ -3731,7 +3731,7 @@ header.header-4.header-fixed .logo-box,
     float: left !important;
   }
   .lg-float-n{
-    float: none !important; 
+    float: none !important;
   }
   .d-md-none{
     display: none;
@@ -3875,7 +3875,7 @@ header.header-4.header-fixed .logo-box,
   }
   .nav-header .navbar-nav .nav-link,
   .nav-header .nav-item span,
-  .nav-on-top .nav-header .navbar-nav .nav-link, 
+  .nav-on-top .nav-header .navbar-nav .nav-link,
   .nav-on-top .nav-header .nav-item span{
     padding: 7px 0px;
   }
@@ -3961,7 +3961,7 @@ header.header-4.header-fixed .logo-box,
   .popular-post-one.owl-nav-round .owl-nav button.owl-prev{
     left: 83% !important;
   }
-  #header-3 .dropdown-item.active, 
+  #header-3 .dropdown-item.active,
   .dropdown-item:active{
     color: #fff !important;
   }
@@ -3994,8 +3994,8 @@ header.header-4.header-fixed .logo-box,
   .signup .xy-middle{
     left: 0 !important;
     top: 0 !important;
-    transform: translate(-0%,-0%) !important; 
-    -webkit-transform: translate(-0%,-0%) !important; 
+    transform: translate(-0%,-0%) !important;
+    -webkit-transform: translate(-0%,-0%) !important;
   }
   .navbar-brand{
   	width: 120px;
@@ -4181,7 +4181,7 @@ header.header-4.header-fixed .logo-box,
     padding-bottom: 5px;
   }
   .footer-widget form{
-	  
+
   }
   .background-image-6{
     background-image: none;

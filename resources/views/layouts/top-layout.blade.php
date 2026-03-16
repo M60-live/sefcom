@@ -65,22 +65,24 @@
 									<li class="nav-item dropdown">
 										<a class="nav-link" href="/about-us" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
 										<ul class="dropdown-menu">
-											<a class="nav-link pl-4" href="/about-us">About Us</a>
-										    <a class="nav-link pl-4" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mission</a>
-                                            <ul class="dropdown-menu">
-                                                <li><a class="dropdown-item" href="/core-environmental-and-water-resource-services">Core Environmental & Water Resource Services</a></li>
-                                                <li><a class="dropdown-item" href="/environmental-data-science-and-analytics">Environmental Data Science & Analytics</a></li>
-                                                <li><a class="dropdown-item" href="/power-bi-development-and-executive-dashboards">Power BI Development & Executive Dashboards</a></li>
-                                                <li><a class="dropdown-item" href="/machine-learning-applications-for-environmental-systems">Machine Learning Applications for Environmental Systems</a></li>
-                                                <li><a class="dropdown-item" href="/artificial-intelligence-ai-for-environmental-governance">Artificial Intelligence (AI) for Environmental Governance</a></li>
-                                                <li><a class="dropdown-item" href="/digital-transformation">Digital Transformation</a></li>
-                                            </ul>
+                                            <li class="nav-item"><a class="nav-link pl-4" href="/about-us">About Us</a></li>
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link pl-4" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mission</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a class="dropdown-item" href="/core-environmental-and-water-resource-services">Core Environmental & Water Resource Services</a></li>
+                                                    <li><a class="dropdown-item" href="/environmental-data-science-and-analytics">Environmental Data Science & Analytics</a></li>
+                                                    <li><a class="dropdown-item" href="/power-bi-development-and-executive-dashboards">Power BI Development & Executive Dashboards</a></li>
+                                                    <li><a class="dropdown-item" href="/machine-learning-applications-for-environmental-systems">Machine Learning Applications for Environmental Systems</a></li>
+                                                    <li><a class="dropdown-item" href="/artificial-intelligence-ai-for-environmental-governance">Artificial Intelligence (AI) for Environmental Governance</a></li>
+                                                    <li><a class="dropdown-item" href="/digital-transformation">Digital Transformation</a></li>
+                                                </ul>
+                                            </li>
 										</ul>
 									</li>
 
 									<li class="nav-item dropdown">
-										<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
-										<ul class="dropdown-menu" style="max-width: 200px; overflow-y: scroll;" >
+										<a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+										<ul class="dropdown-menu">
 											<li><a class="dropdown-item" href="/feasibility-studies">Feasibility and Project Development</a></li>
 											<li><a class="dropdown-item" href="/hydrology">Hydrology</a></li>
 											<li><a class="dropdown-item" href="/hydrogeology">Hydrogeology</a></li>
