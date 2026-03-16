@@ -2,7 +2,7 @@
 @section('content')
 <!-- Banner One Start
 	====================================================-->
-	<div class="page-banner overlay-secondery-8" style="background: url(images/background/2.jpg) bottom center/ cover; padding: 150px 0;">
+	<div class="page-banner overlay-secondery-8" style="background: url(images/services/energy.jpg) bottom center/ cover; padding: 150px 0;">
 		<div class="container">
 			<div class="banner-text text-center">
 				<div class="row">
@@ -31,8 +31,8 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/other/2.jpg" alt="images">
-									<img src="images/other/3.jpg" alt="images">
+									<img src="images/services/Energy & Energy Transition.png" alt="images">
+									<img src="images/services/Energy & Energy Transition 2.png" alt="images">
 									
 								</div>
 							</div>

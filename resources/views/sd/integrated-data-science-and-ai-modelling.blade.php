@@ -100,7 +100,7 @@
 							<li><a  href="/environmental-assessment">Environmental Assessment</a></li> 
 							<li><a  href="/hydropower">Hydropower</a></li>
 							<li><a  href="/infrastructure">Infrastructure</a></li> 
-							<li><a  href="/energy-&-energy-transition">Energy & Energy Transition</a></li>
+							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey </a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
 							<li><a  href="/environmental-monitoring-equipment-supply">Environmental Monitoring Equipment Supply</a></li>

@@ -24,6 +24,20 @@ Route::view('/services', 'services');
 Route::get('/contact-us',[ContactController::class,'contact']);
 Route::post('/send-message',[ContactController::class,'sendEmail'])->name('contact.send');
 
+/* Mission */
+
+Route::view('/core-environmental-and-water-resource-services', 'mission/core-environmental-and-water-resource-services');
+
+Route::view('/environmental-data-science-and-analytics', 'mission/environmental-data-science-and-analytics');
+
+Route::view('/power-bi-development-and-executive-dashboards', 'mission/power-bi-development-and-executive-dashboards');
+
+Route::view('/machine-learning-applications-for-environmental-systems', 'mission/machine-learning-applications-for-environmental-systems');
+
+Route::view('/artificial-intelligence-ai-for-environmental-governance', 'mission/artificial-intelligence-ai-for-environmental-governance');
+
+Route::view('/digital-transformation', 'mission/digital-transformation');
+
 /* SD */
 
 Route::view('/feasibility-studies', 'sd/feasibility-studies');

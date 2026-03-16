@@ -31,8 +31,8 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/other/2.jpg" alt="images">
-									<img src="images/other/3.jpg" alt="images">
+									<img src="images/services/Environmental Assessment Page.png" alt="images">
+									<img src="images/services/3.jpg" alt="images">
 									
 								</div>
 							</div>
@@ -99,7 +99,7 @@
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
 							<li><a  href="/hydropower">Hydropower</a></li> 
 							<li><a  href="/infrastructure">Infrastructure</a></li>
-							<li><a  href="/energy-and-energy-transition">Energy & Energy Transition</a></li> 
+							<li><a  href="/energy">Energy & Energy Transition</a></li> 
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>

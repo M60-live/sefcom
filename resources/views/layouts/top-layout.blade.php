@@ -64,20 +64,19 @@
 		                    </button>
 							<div class="collapse navbar-collapse pt-5" id="navbarSupportedContent">
 								<ul class="navbar-nav ml-auto">
+									<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
 									<li class="nav-item dropdown">
-										<a class="nav-link dropdown-toggle" href="/" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
-										<ul class="dropdown-menu"> 
-											<li><a class="dropdown-item" href="/about-us">About us</a></li>
-											<li><a class="dropdown-item" href="/vision">Vision</a></li>
-                                            <li class="nav-item dropdown">
-										    <a class="nav-link pl-4" href="index.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mission</a>
+										<a class="nav-link" href="/about-us" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
+										<ul class="dropdown-menu">
+											<a class="nav-link pl-4" href="/about-us">About Us</a>
+										    <a class="nav-link pl-4" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mission</a>
                                             <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="index.html">Core Environmental & Water Resource Services</a></li>
-											<li><a class="dropdown-item" href="index-2.html">Environmental Data Science & Analytics</a></li>
-											<li><a class="dropdown-item" href="index-3.html">Power BI Development & Executive Dashboards</a></li>
-                                            <li><a class="dropdown-item" href="index-3.html">Machine Learning Applications for Environmental Systems</a></li>
-                                            <li><a class="dropdown-item" href="index-3.html">Artificial Intelligence (AI) for Environmental Governance</a></li>
-                                            <li><a class="dropdown-item" href="index-3.html">Digital Transformation</a></li>
+                                            <li><a class="dropdown-item" href="/core-environmental-and-water-resource-services">Core Environmental & Water Resource Services</a></li>
+											<li><a class="dropdown-item" href="/environmental-data-science-and-analytics">Environmental Data Science & Analytics</a></li>
+											<li><a class="dropdown-item" href="/power-bi-development-and-executive-dashboards">Power BI Development & Executive Dashboards</a></li>
+                                            <li><a class="dropdown-item" href="/machine-learning-applications-for-environmental-systems">Machine Learning Applications for Environmental Systems</a></li>
+                                            <li><a class="dropdown-item" href="/artificial-intelligence-ai-for-environmental-governance">Artificial Intelligence (AI) for Environmental Governance</a></li>
+                                            <li><a class="dropdown-item" href="/digital-transformation">Digital Transformation</a></li>
                                             </ul>
 										</ul>
 									</li>
@@ -93,7 +92,7 @@
 											<li><a class="dropdown-item" href="/geotechnical-services">Geotechnical Services</a></li>
 											<li><a class="dropdown-item" href="/hydropower">Hydropower</a></li> 
 											<li><a class="dropdown-item" href="/infrastructure">Infrastructure</a></li>
-											<li><a class="dropdown-item" href="/energy-and-energy-transition">Energy & Energy Transition</a></li> 
+											<li><a class="dropdown-item" href="/energy">Energy & Energy Transition</a></li> 
 											<li><a class="dropdown-item" href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 											<li><a class="dropdown-item" href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 											<li><a class="dropdown-item" href="/laboratory-services">Laboratory Services</a></li>

@@ -4,10 +4,6 @@
 
 
 
-
-
-
-
 @include('layouts.footer')
 @endsection
 @section('javascript')
