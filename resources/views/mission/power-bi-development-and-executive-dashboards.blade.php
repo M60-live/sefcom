@@ -2,18 +2,9 @@
 @section('content')
 
 
-
-
-@include('layouts.footer')
-@endsection
-@section('javascript')
-@endsection
-@extends('layouts.top-layout')
-@section('content')
-
     <!-- Banner One Start
 	====================================================-->
-	<div class="page-banner overlay-secondery-8" style="background: url(images/services/core-environmental.png) bottom center/ cover; padding: 150px 0;">
+	<div class="page-banner overlay-secondery-8" style="background: url(images/services/power.png) bottom center/ cover; padding: 150px 0;">
 		<div class="container">
 			<div class="banner-text text-center">
 				<div class="row">
