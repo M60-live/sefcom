@@ -3,7 +3,7 @@
 
     <!-- Banner One Start
 	====================================================-->
-	<div class="page-banner overlay-secondery-8" style="background: url(images/services/core-environmental.png) bottom center/ cover; padding: 150px 0;">
+	<div class="page-banner overlay-secondery-8" style="background: url(images/services/core.png) bottom center/ cover; padding: 150px 0;">
 		<div class="container">
 			<div class="banner-text text-center">
 				<div class="row">

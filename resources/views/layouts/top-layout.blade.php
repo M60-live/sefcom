@@ -47,7 +47,7 @@
 	<!-- Start Header
 	====================================================-->
 	<header id="header" class="nav-on-banner">
-		<div class="nav-header py-10">
+		<div class="nav-header py-2">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
@@ -70,7 +70,7 @@
 											<a class="nav-link pl-4" href="/about-us">About Us</a>
                                             <li class="nav-item dropdown">
                                                 <a class="nav-link pl-4" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mission</a>
-                                                <ul class="dropdown-menu dropdown2">
+                                                <ul class="dropdown-menu dropdown-content">
                                                     <li><a class="dropdown-item" href="/core-environmental-and-water-resource-services">Core Environmental & Water Resource Services</a></li>
                                                     <li><a class="dropdown-item" href="/environmental-data-science-and-analytics">Environmental Data Science & Analytics</a></li>
                                                     <li><a class="dropdown-item" href="/power-bi-development-and-executive-dashboards">Power BI Development & Executive Dashboards</a></li>

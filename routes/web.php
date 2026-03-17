@@ -34,7 +34,7 @@ Route::view('/power-bi-development-and-executive-dashboards', 'mission/power-bi-
 
 Route::view('/machine-learning-applications-for-environmental-systems', 'mission/machine-learning-applications-for-environmental-systems');
 
-Route::view('/artificial-intelligence-ai-for-environmental-governance', 'mission/artificial-intelligence-ai-for-environmental-governance');
+Route::view('/ai-for-environmental-governance', 'mission/ai-for-environmental-governance');
 
 Route::view('/digital-transformation', 'mission/digital-transformation');
 

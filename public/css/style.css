@@ -4470,20 +4470,24 @@ header.header-4.header-fixed .logo-box,
   }
 
   .dropdown-menu{
-    max-height: 200px;
+    max-height: auto;
     overflow-y: scroll;
+    overflow-x: auto;
   }
 
-  .dropdown-menu2{
-    max-height: 200px;
-    max-width: 50px;
-    overflow-y: scroll;
-  }
+  .dropdown-content {
+  display: none;
+  position: absolute; /* Essential: takes it out of the normal document flow */
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  /* Key properties for left alignment */
+  right: 0; /* Aligns the right edge of the dropdown with the right edge of its parent */
+  left: auto; /* Ensures it doesn't conflict with any default left property */
+}
 
-  .dropdown-submenu{
-    max-height: 200px;
-    overflow-y: scroll;
-  }
+
 }
 
 
