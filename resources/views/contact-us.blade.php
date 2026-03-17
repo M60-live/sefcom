@@ -5,7 +5,7 @@
 
 <!-- Banner One Start
 	====================================================-->
-	<div class="page-banner overlay-secondery-8" style="background: url(images/background/2.jpg) bottom center/ cover; padding: 150px 0;">
+	<div class="page-banner overlay-secondery-8" style="background: url(images/services/contact-us.jpg) bottom center/ cover; padding: 150px 0;">
 		<div class="container">
 			<div class="banner-text text-center">
 				<div class="row">
@@ -30,30 +30,14 @@
 	<section class="position-relative background-map">
 		<div class="container">
 			<div class="row">
-				<div class="col">
+				<div class="col-md-6 col-lg-6">
 					<div class="title">
 						<span class="color-primary">Contact US</span>
 						<h2 class="position-relative va-lb-line-w50-h2-primary pb-15 mb-30">Our Support Center.</h2>
 					</div>
 					<div class="contact-form-2">
 						<form class="contact-message-2" action="{{route('contact.send')}}" method="POST" id="contact-form">
-                            @csrf
-                        <div class="container">
-                            <div class="row">
-                            @if(Session::has('message_sent'))
-                        <div class='alert alert-success' role="alert">
-                            {{Session::get('message_sent') }}
-                        </div>
-                        @endif
-                        @if($errors->any())
-                        <div class="alert alert-danger">
-                            <ul>
-                                @foreach ($errors->all() as $error)
-                                <li>{{ $error }}</li>
-                                @endforeach
-                            </ul>
-                        </div>
-                        @endif
+                            
                             <div class="form-group">
 								<input class="form-control" type="text" name="name" id="name" placeholder="Name*"/>
 							</div>
@@ -73,7 +57,7 @@
 						</form>
 					</div>
 				</div>
-				<div class="col">
+				<div class="col-md-6 col-lg-6">
 					<div class="contact-info md-mt-50">
 						<ul class="color-secondery">
 							<li>
@@ -94,8 +78,26 @@
 					</div>
 				</div>
 			</div>
+			@csrf
+	<div class="container">
+		<div class="row">
+		@if(Session::has('message_sent'))
+	<div class='alert alert-success' role="alert">
+		{{Session::get('message_sent') }}
+	</div>
+	@endif
+	@if($errors->any())
+	<div class="alert alert-danger">
+		<ul>
+			@foreach ($errors->all() as $error)
+			<li>{{ $error }}</li>
+			@endforeach
+		</ul>
+	</div>
+	@endif
 		</div>
 	</section>
+	
 	<!-- End Contact Form
 	====================================================-->
 	<!-- Start Map 

@@ -4,7 +4,7 @@
 
 <!-- Banner One Start
 	====================================================-->
-	<div class="page-banner overlay-secondery-8" style="background: url(images/background/about-us.png) bottom center/ cover; padding: 150px 0;">
+	<div class="page-banner overlay-secondery-8" style="background: url(images/services/bg1.png) bottom center/ cover; padding: 150px 0;">
 		<div class="container">
 			<div class="banner-text text-center">
 				<div class="row">
@@ -73,15 +73,14 @@
 
                     <h2 class="position-relative va-lb-line-w50-h2-primary pb-15 mb-30 pt-3">Mission</h2>
                     <p>To deliver technically rigorous, data-driven, and regulator-aligned environmental solutions that enable responsible resource development and sustainable water management.</p>
-                    <p class="d-inline-flex gap-1">
-                        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1" style="background: #4BAF47; border: none;">
-                            Core Environmental & Water Resource Services
-                        </button>
-                    </p>
-                    <div class="collapse" id="collapseExample1">
-                        <div class="card card-body">
+                    
+                    <div class="mt-3">
+                    <details class="position-relative">
+                        <summary> Core Environmental & Water Resource Services</summary>
+                        <div>
+                            <div class="card card-body">
                             <ul>
-                                <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Integrated Water Use Licence (IWUL) Applications & Audits</li>
+                               <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Integrated Water Use Licence (IWUL) Applications & Audits</li>
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Water Stewardship Strategy (AWS, ICMM)</li>
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Water Conservation & Water Demand Management (WC/WDM) Plans</li>
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Integrated Water & Waste Management Plans (IWWMP)</li>
@@ -94,16 +93,16 @@
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Geophysical Investigations</li>
                             </ul>
                         </div>
-                    </div>
-                    <p class="d-inline-flex gap-1">
-                        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="background: #4BAF47; border: none;">
-                            Environmental Data Science & Analytics
-                        </button>
-                    </p>
-                    <div class="collapse" id="collapseExample2">
-                        <div class="card card-body">
+                        </div>
+                    </details>
+                
+
+                    <details class="position-relative">
+                        <summary> Environmental Data Science & Analytics</summary>
+                        <div>
+                            <div class="card card-body">
                             <ul>
-                                <p>We provide advanced data-driven solutions for environmental governance, water management, and ESG performance optimisation.</p>
+                               <p>We provide advanced data-driven solutions for environmental governance, water management, and ESG performance optimisation.</p>
                                 <h5>Services Include:</h5>
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental data analytics & trend modelling</li>
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Statistical water quality trend analysis</li>
@@ -114,15 +113,16 @@
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental KPI performance benchmarking</li>
                             </ul>
                         </div>
-                    </div>
-                    <p class="d-inline-flex gap-1">
-                        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" style="background: #4BAF47; border: none;">
-                            Power BI Development & Executive Dashboards
-                        </button>
-                    </p>
-                    <div class="collapse" id="collapseExample3">
-                        <div class="card card-body">
-                            <ul>
+                        </div>
+                    </details>
+                    
+
+
+                    <details class="position-relative">
+                        <summary> Power BI Development & Executive Dashboards</summary>
+                        <div>
+                            <div class="card card-body">
+                           <ul>
                                 <p>We design interactive, decision-support dashboards for environmental, operational, and governance reporting.</p>
                                 <h5>Services:</h5>
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Executive Water Management Dashboards</li>
@@ -141,14 +141,13 @@
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Regulatory compliance units</li>
                             </ul>
                         </div>
-                    </div>
-                    <p class="d-inline-flex gap-1">
-                        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample4" aria-expanded="false" aria-controls="collapseExample4" style="background: #4BAF47; border: none;">
-                            Machine Learning Applications for Environmental Systems
-                        </button>
-                    </p>
-                    <div class="collapse" id="collapseExample4">
-                        <div class="card card-body">
+                        </div>
+                    </details>
+                    
+                    <details class="mt-3">
+                        <summary> Machine Learning Applications for Environmental Systems</summary>
+                        <div>
+                            <div class="card card-body">
                             <ul>
                                 <p>We apply machine learning techniques to improve prediction, anomaly detection, and operational optimisation.</p>
                                 <h5>Use Cases:</h5>
@@ -160,14 +159,13 @@
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Predictive maintenance analytics for water infrastructure</li>
                             </ul>
                         </div>
-                    </div>
-                    <p class="d-inline-flex gap-1">
-                        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample5" aria-expanded="false" aria-controls="collapseExample5" style="background: #4BAF47; border: none;">
-                            Artificial Intelligence (AI) for Environmental Governance
-                        </button>
-                    </p>
-                    <div class="collapse" id="collapseExample5">
-                        <div class="card card-body">
+                        </div>
+                    </details>
+                    
+                    <details class="mt-3">
+                        <summary> Artificial Intelligence (AI) for Environmental Governance</summary>
+                        <div>
+                            <div class="card card-body">
                             <ul>
                                 <h5>AI Applications:</h5>
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Hydrological and hydrogeological assessment</li>
@@ -179,14 +177,13 @@
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>ESG performance optimisation algorithms</li>
                             </ul>
                         </div>
-                    </div>
-                    <p class="d-inline-flex gap-1">
-                        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample6" aria-expanded="false" aria-controls="collapseExample6" style="background: #4BAF47; border: none;">
-                            Digital Transformation
-                        </button>
-                    </p>
-                    <div class="collapse" id="collapseExample6">
-                        <div class="card card-body">
+                        </div>
+                    </details>
+
+                    <details>
+                        <summary> Digital Transformation</summary>
+                        <div>
+                            <div class="card card-body">
                             <ul>
                                 <p>We support organisations transitioning from manual environmental reporting to automated, digital governance systems.</p>
                                 <h5>Services:</h5>
@@ -198,6 +195,9 @@
                                 <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Audit-ready compliance tracking systems</li>
                             </ul>
                         </div>
+                        </div>
+                    </details>
+
                     </div>
                 </div>
 			</div>
@@ -205,7 +205,6 @@
 	</section>
 	<!-- End About Us
 	====================================================-->
-	
 
 
 

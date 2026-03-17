@@ -4473,6 +4473,17 @@ header.header-4.header-fixed .logo-box,
     max-height: 200px;
     overflow-y: scroll;
   }
+
+  .dropdown-menu2{
+    max-height: 200px;
+    max-width: 50px;
+    overflow-y: scroll;
+  }
+
+  .dropdown-submenu{
+    max-height: 200px;
+    overflow-y: scroll;
+  }
 }
 
 

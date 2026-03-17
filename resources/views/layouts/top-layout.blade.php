@@ -34,7 +34,7 @@
 	======================================================-->
 	<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
-
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
 	<!-- Favicon Icon -->
 	<link rel="shortcut icon" type="image/x-icon" href="images/Original R.png">
 </head>
@@ -52,23 +52,25 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<nav class="navbar navbar-expand-lg navbar-light px-0">
-							<a class="navbar-brand" href="/"><img src="images/logo2_resized.png" alt="logo"></a>
-
+							<a class="navbar-brand" href="#"><img src="images/logo2_resized.png" alt="SEFCOM"></a>
+							
+							
 							<button class="toggle-btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			                    <span></span>
 			                    <span></span>
 			                    <span></span>
 		                    </button>
-							<div class="collapse navbar-collapse pt-5" id="navbarSupportedContent">
+							<div class="collapse navbar-collapse" id="navbarSupportedContent">
 								<ul class="navbar-nav ml-auto">
 									<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+									
 									<li class="nav-item dropdown">
-										<a class="nav-link" href="/about-us" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
-										<ul class="dropdown-menu">
-                                            <li class="nav-item"><a class="nav-link pl-4" href="/about-us">About Us</a></li>
+										<a class="nav-link dropdown-toggle" href="/about-us" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+										<ul class="dropdown-menu"> 
+											<a class="nav-link pl-4" href="/about-us">About Us</a>
                                             <li class="nav-item dropdown">
                                                 <a class="nav-link pl-4" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mission</a>
-                                                <ul class="dropdown-menu">
+                                                <ul class="dropdown-menu dropdown2">
                                                     <li><a class="dropdown-item" href="/core-environmental-and-water-resource-services">Core Environmental & Water Resource Services</a></li>
                                                     <li><a class="dropdown-item" href="/environmental-data-science-and-analytics">Environmental Data Science & Analytics</a></li>
                                                     <li><a class="dropdown-item" href="/power-bi-development-and-executive-dashboards">Power BI Development & Executive Dashboards</a></li>
@@ -80,9 +82,10 @@
 										</ul>
 									</li>
 
+									
 									<li class="nav-item dropdown">
-										<a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
-										<ul class="dropdown-menu">
+										<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+										<ul class="dropdown-menu"> 
 											<li><a class="dropdown-item" href="/feasibility-studies">Feasibility and Project Development</a></li>
 											<li><a class="dropdown-item" href="/hydrology">Hydrology</a></li>
 											<li><a class="dropdown-item" href="/hydrogeology">Hydrogeology</a></li>
@@ -99,9 +102,10 @@
 											<li><a class="dropdown-item" href="/environmental-assessment">Environmental Assessment</a></li>
 										</ul>
 									</li>
-
+									
+					
 									<li class="nav-item"><a class="nav-link" href="/contact-us">Contact</a></li>
-
+									
 								</ul>
 							</div>
 						</nav>
