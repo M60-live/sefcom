@@ -52,9 +52,9 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<nav class="navbar navbar-expand-lg navbar-light px-0">
-							<a class="navbar-brand" href="#"><img src="images/logo2_resized.png" alt="SEFCOM"></a>
-							
-							
+							<a class="navbar-brand" href="/"><img src="images/logo2_resized.png" alt="SEFCOM"></a>
+
+
 							<button class="toggle-btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			                    <span></span>
 			                    <span></span>
@@ -63,10 +63,10 @@
 							<div class="collapse navbar-collapse" id="navbarSupportedContent">
 								<ul class="navbar-nav ml-auto">
 									<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-									
+
 									<li class="nav-item dropdown">
 										<a class="nav-link dropdown-toggle" href="/about-us" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
-										<ul class="dropdown-menu"> 
+										<ul class="dropdown-menu">
 											<a class="nav-link pl-4" href="/about-us">About Us</a>
                                             <li class="nav-item dropdown">
                                                 <a class="nav-link pl-4" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mission</a>
@@ -82,10 +82,10 @@
 										</ul>
 									</li>
 
-									
+
 									<li class="nav-item dropdown">
 										<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
-										<ul class="dropdown-menu"> 
+										<ul class="dropdown-menu">
 											<li><a class="dropdown-item" href="/feasibility-studies">Feasibility and Project Development</a></li>
 											<li><a class="dropdown-item" href="/hydrology">Hydrology</a></li>
 											<li><a class="dropdown-item" href="/hydrogeology">Hydrogeology</a></li>
@@ -102,10 +102,10 @@
 											<li><a class="dropdown-item" href="/environmental-assessment">Environmental Assessment</a></li>
 										</ul>
 									</li>
-									
-					
+
+
 									<li class="nav-item"><a class="nav-link" href="/contact-us">Contact</a></li>
-									
+
 								</ul>
 							</div>
 						</nav>

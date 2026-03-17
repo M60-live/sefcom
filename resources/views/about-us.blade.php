@@ -12,7 +12,7 @@
 						<h1 class="position-relative va-c-line-w50-h1-primary pb-15 mb-20 color-white">About Us</h1>
 						<nav class="breadcrumb-one d-table m-auto bg-white px-30" aria-label="breadcrumb">
 						  <ol class="breadcrumb bg-transparent mb-0">
-						    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+						    <li class="breadcrumb-item"><a href="/">Home</a></li>
 						    <li class="breadcrumb-item active" aria-current="page">About Us</li>
 						  </ol>
 						</nav>
@@ -40,12 +40,12 @@
 						<p class="mb-15">Sefcom Environmental Consulting is a specialist environmental and water resource advisory firm providing integrated environmental governance, regulatory compliance, hydrological, hydrogeological, geochemical expertise, and advanced data-driven solutions.</p>
 						<p>We support mining operations, industrial facilities, infrastructure developers, and regulatory institutions in achieving sustainable environmental performance through science-based assessments, risk-informed decision-making, and digital environmental intelligence.</p>
 						<hr class="my-30">
-						
+
 					</div>
 				</div>
 				<div class="col-md-12 col-lg-4 col-xl-5">
 					<div class="why-us-img z-index-1 position-relative mb-20 ml-20 lg-mt-50"><img src="images/other/1.jpg" alt="image">
-						
+
 					</div>
 				</div>
                 <div class="row flex-row-reverse">
@@ -73,7 +73,7 @@
 
                     <h2 class="position-relative va-lb-line-w50-h2-primary pb-15 mb-30 pt-3">Mission</h2>
                     <p>To deliver technically rigorous, data-driven, and regulator-aligned environmental solutions that enable responsible resource development and sustainable water management.</p>
-                    
+
                     <div class="mt-3">
                     <details class="position-relative">
                         <summary> Core Environmental & Water Resource Services</summary>
@@ -95,7 +95,7 @@
                         </div>
                         </div>
                     </details>
-                
+
 
                     <details class="position-relative">
                         <summary> Environmental Data Science & Analytics</summary>
@@ -115,7 +115,7 @@
                         </div>
                         </div>
                     </details>
-                    
+
 
 
                     <details class="position-relative">
@@ -143,7 +143,7 @@
                         </div>
                         </div>
                     </details>
-                    
+
                     <details class="mt-3">
                         <summary> Machine Learning Applications for Environmental Systems</summary>
                         <div>
@@ -161,7 +161,7 @@
                         </div>
                         </div>
                     </details>
-                    
+
                     <details class="mt-3">
                         <summary> Artificial Intelligence (AI) for Environmental Governance</summary>
                         <div>
