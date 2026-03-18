@@ -1,17 +1,17 @@
 <!-- Star Footer One
 ====================================================-->
 <footer class="bg-dark">
-    <div class="container text-left">
-        <div class="row align-items-center">
-            <div class="col">
+    <div class="container">
+        <div class="row py-30">
+            <div class="col-sm-6 col-lg-4">
                 <div class="footer-widget sm-mt-0">
-                    <div class="footer-logo mb-20 pt-3">
-                        <a href="#"><img src="images/logo2_resized.png" alt="images"></a>
+                    <div class="footer-logo">
+                        <a href="#"><img src="images/logo2_resized.png" alt="images" style="width: 200%;"></a>
                     </div>
-                    
+
                 </div>
             </div>
-            <div class="col">
+            <div class="col-sm-6 col-lg-4">
                 <div class="footer-widget">
                     <h3 class="footer-widget-title position-relative va-lb-line-w50-h2-primary pb-15 mb-20 color-white">Links</h3>
                     <ul class="hover-white-primary link-list-b-15">
@@ -20,7 +20,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-sm-6 col-lg-4 pt-5">
+            <div class="col-sm-12 col-lg-4">
                 <div class="footer-widget">
                     <h3 class="footer-widget-title position-relative va-lb-line-w50-h2-primary pb-15 mb-20 color-white">Contact Us</h3>
                     <ul class="widget-contact-info color-white icon-primary link-list-b-5 mt-30">
