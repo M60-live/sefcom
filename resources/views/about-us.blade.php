@@ -27,9 +27,6 @@
 	<!-- Banner One End
 	====================================================-->
 
-
-
-
     <!-- Start About Us
 	====================================================-->
 	<section class="about-us">
@@ -45,6 +42,15 @@
 						<hr class="my-30">
 					</div>
 
+				</div>
+				<div class="col-md-12 col-lg-4 col-xl-5">
+					<div class="why-us-img z-index-1 position-relative mb-20 ml-20 lg-mt-50"><img src="images/other/1.jpg" alt="image">
+					</div>
+				</div>
+
+			</div>
+            <div class="row">
+                <div class="col-md-12">
                     <div class="row pb-4 pt-4">
                         <h2 class="position-relative va-lb-line-w50-h2-primary pb-15 mb-30 pt-3 col">Vision</h2>
                         <p class="col-sm-12">To become a leading African environmental intelligence and water governance advisory firm integrating environmental science with advanced analytics and digital innovation.</p>
@@ -55,7 +61,7 @@
                         <p class="col-sm-12">To deliver technically rigorous, data-driven, and regulator-aligned environmental solutions that enable responsible resource development and sustainable water management.</p>
                     </div>
 
-                    <div class="col-xl-6 col-lg-12 col-md-6">
+                    <details class="position-relative col-12">
                         <div class="service-wrap">
                             <p class="pb-2">Our Approach Integrates:</p>
                             <div class="list-style mb-30 mt-25">
@@ -69,8 +75,7 @@
                             </div>
                             <p>We position ourselves at the intersection of environmental science and data intelligence, delivering solutions that are technically robust, regulator-ready, and decision-focused.</p>
                         </div>
-                    </div>
-
+                    </details>
 
                     <details class="position-relative col-12 pt-4">
                         <summary> Core Environmental & Water Resource Services</summary>
@@ -93,13 +98,12 @@
                         </div>
                     </details>
 
-
                     <details class="position-relative col-12">
                         <summary> Environmental Data Science & Analytics</summary>
                         <div>
                             <div class="card card-body w-75 mb-3">
                                 <ul>
-                                <p>We provide advanced data-driven solutions for environmental governance, water management, and ESG performance optimisation.</p>
+                                    <p>We provide advanced data-driven solutions for environmental governance, water management, and ESG performance optimisation.</p>
                                     <h5>Services Include:</h5>
                                     <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental data analytics & trend modelling</li>
                                     <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Statistical water quality trend analysis</li>
@@ -192,33 +196,12 @@
                             </div>
                         </div>
                     </details>
-
-                    
-				</div>
-				<div class="col-md-12 col-lg-4 col-xl-5">
-					<div class="why-us-img z-index-1 position-relative mb-20 ml-20 lg-mt-50"><img src="images/other/1.jpg" alt="image">
-
-					</div>
-				</div>
-                <div class="row flex-row-reverse">
-                    <div class="col-xl-6 col-lg-12 col-md-6">
-                        <div class="page-img mb-30">
-                        </div>
-                    </div>
                 </div>
-			</div>
+            </div>
 		</div>
 	</section>
-
 	<!-- End About Us
 	====================================================-->
 
-
-
-
-
-
 @include('layouts.footer')
-@endsection
-@section('javascript')
 @endsection
