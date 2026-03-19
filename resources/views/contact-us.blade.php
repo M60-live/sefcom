@@ -13,11 +13,11 @@
 						<h1 class="position-relative va-c-line-w50-h1-primary pb-15 mb-20 color-white">Contact Us</h1>
 						<nav class="breadcrumb-one d-table m-auto bg-white px-30" aria-label="breadcrumb">
 						  <ol class="breadcrumb bg-transparent mb-0">
-						    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+						    <li class="breadcrumb-item"><a href="/">Home</a></li>
 						    <li class="breadcrumb-item active" aria-current="page">Contact</li>
 						  </ol>
 						</nav>
-						
+
 					</div>
 				</div>
 			</div>
@@ -25,7 +25,7 @@
 	</div>
 	<!-- Banner One End
 	====================================================-->
-	<!-- Start Contact Info 
+	<!-- Start Contact Info
 	====================================================-->
 	<section class="position-relative background-map">
 		<div class="container">
@@ -37,7 +37,7 @@
 					</div>
 					<div class="contact-form-2">
 						<form class="contact-message-2" action="{{route('contact.send')}}" method="POST" id="contact-form">
-                            
+
                             <div class="form-group">
 								<input class="form-control" type="text" name="name" id="name" placeholder="Name*"/>
 							</div>
@@ -53,7 +53,7 @@
 							<div class="form-group">
 								<input class="btn btn-secondery" id="Send" name="submit" type="submit" value="Send"/>
 							</div>
-							
+
 						</form>
 					</div>
 				</div>
@@ -66,11 +66,11 @@
                                 <span><b>Ghana:</b> +233 24 514 2414</span>
 							</li>
 							<li>
-								Email : 
+								Email :
 								<span>info@sefcomenvironmental.com</span>
 							</li>
 							<li>
-								Address : 
+								Address :
 								<span><b>South Africa:</b> 28 Lemoendoring Street, Weltevredenpark, 1709, Johannesburg, South Africa</span>
                                 <span><b>Ghana:</b> 35 HFC Estate, Community 25, Tema, Ghana</span>
 							</li>
@@ -97,10 +97,10 @@
 	@endif
 		</div>
 	</section>
-	
+
 	<!-- End Contact Form
 	====================================================-->
-	<!-- Start Map 
+	<!-- Start Map
 	====================================================-->
 	<div id="map" class="map-canvas"></div>
 	<!-- End Map
