@@ -18,7 +18,6 @@ Route::view('/','index');
 
 Route::view('/about-us','about-us');
 
-Route::view('/services', 'services');
 
 /* Contact-Us */
 Route::get('/contact-us',[ContactController::class,'contact']);
@@ -51,6 +50,8 @@ Route::view('/soil-science', 'sd/soil-science');
 Route::view('/geochemistry', 'sd/geochemistry');
 
 Route::view('/environmental-assessment', 'sd/environmental-assessment');
+
+Route::view('/environmental-monitoring-equipment-supply', 'sd/environmental-monitoring-equipment-supply');
 
 Route::view('/hydropower', 'sd/hydropower');
 

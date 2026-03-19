@@ -1,4 +1,4 @@
-@extends('layouts.top-layout')
+@extends('layouts.other-layout')
 @section('content')
 <!-- Banner One Start
 	====================================================-->
@@ -32,7 +32,7 @@
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
 									<img src="images/services/Energy & Energy Transition.png" alt="images">
-									<img src="images/services/Energy & Energy Transition 2.png" alt="images">
+									<img src="images/services/e.jpg" alt="images">
 									
 								</div>
 							</div>
@@ -111,9 +111,9 @@
 							<li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span>  +27 71 723 4937</li>
 							<h6><b>Ghana</b></h6>
 							<li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span>  +233 24 514 2414</li>
-							<h6><b>Head Office-South Africa</b></h6>
+							<h6><b>South Africa</b></h6>
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>28 Lemoendoring Street, Weltevredenpark, 1709, Johannesburg, South Africa</li>
-							<h6><b>Ghana Office</b></h6>
+							<h6><b>Ghana</b></h6>
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>

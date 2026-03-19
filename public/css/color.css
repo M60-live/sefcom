@@ -10,7 +10,7 @@ body{
 	color: #4BAF47 !important; /* color Primary */
 }
 .color-secondery, .color-secondery-a a{
-	color: #0A7E9D !important /* color secondery */
+	color: #082136 !important /* color secondery */
 }
 .color-dark{
 	color: #343a40 !important; /* color Dark */
@@ -206,7 +206,7 @@ body{
 .list-style-icon-primary li:before,
 .about-block-list .list-style-icon-check li:before,
 .service-3 .box-title-3:hover{
-	color: #4BAF47 !important;
+	color: #343a40 !important;
 }
 /* color secondery
 ---------------------*/
@@ -234,7 +234,7 @@ body{
 .accordion-2 .acdn-title a,
 .navbar-light .navbar-nav .nav-link,
 .gallery-navbar li{
-	color: #343a40;
+	color:  #4BAF47;
 }
 /* color Light
 --------------------*/
@@ -591,5 +591,5 @@ body{
 #header .custom-select-trigger:after,
 .navbar-light .navbar-nav .nav-link,
 .nav-header .nav-item span{
-	color: #343a40 !important;
+	color: #4BAF47 !important;
 }

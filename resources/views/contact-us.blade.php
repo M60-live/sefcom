@@ -1,4 +1,4 @@
-@extends('layouts.top-layout')
+@extends('layouts.other-layout')
 @section('content')
 
 
@@ -71,8 +71,8 @@
 							</li>
 							<li>
 								Address : 
-								<span><b>Head Office -South Africa:</b> 28 Lemoendoring Street, Weltevredenpark, 1709, Johannesburg, South Africa</span>
-                                <span><b>Ghana Office:</b> 35 HFC Estate, Community 25, Tema, Ghana</span>
+								<span><b>South Africa:</b> 28 Lemoendoring Street, Weltevredenpark, 1709, Johannesburg, South Africa</span>
+                                <span><b>Ghana:</b> 35 HFC Estate, Community 25, Tema, Ghana</span>
 							</li>
 						</ul>
 					</div>

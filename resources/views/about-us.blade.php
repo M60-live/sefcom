@@ -1,4 +1,4 @@
-@extends('layouts.top-layout')
+@extends('layouts.other-layout')
 @section('content')
 
 
@@ -27,6 +27,9 @@
 	<!-- Banner One End
 	====================================================-->
 
+
+
+
     <!-- Start About Us
 	====================================================-->
 	<section class="about-us">
@@ -44,12 +47,12 @@
 
                     <div class="row pb-4 pt-4">
                         <h2 class="position-relative va-lb-line-w50-h2-primary pb-15 mb-30 pt-3 col">Vision</h2>
-                        <p class="col">To become a leading African environmental intelligence and water governance advisory firm integrating environmental science with advanced analytics and digital innovation.</p>
+                        <p class="col-sm-12">To become a leading African environmental intelligence and water governance advisory firm integrating environmental science with advanced analytics and digital innovation.</p>
                     </div>
 
                     <div class="row pb-4">
                         <h2 class="position-relative va-lb-line-w50-h2-primary pb-15 mb-30 pt-3 col">Mission</h2>
-                        <p class="col">To deliver technically rigorous, data-driven, and regulator-aligned environmental solutions that enable responsible resource development and sustainable water management.</p>
+                        <p class="col-sm-12">To deliver technically rigorous, data-driven, and regulator-aligned environmental solutions that enable responsible resource development and sustainable water management.</p>
                     </div>
 
                     <div class="col-xl-6 col-lg-12 col-md-6">
@@ -69,7 +72,7 @@
                     </div>
 
 
-                    <details class="position-relative col-8 pt-4">
+                    <details class="position-relative col-12 pt-4">
                         <summary> Core Environmental & Water Resource Services</summary>
                         <div>
                             <div class="card card-body">
@@ -91,7 +94,7 @@
                     </details>
 
 
-                    <details class="position-relative col-8">
+                    <details class="position-relative col-12">
                         <summary> Environmental Data Science & Analytics</summary>
                         <div>
                             <div class="card card-body w-75 mb-3">
@@ -110,7 +113,7 @@
                         </div>
                     </details>
 
-                    <details class="position-relative col-8">
+                    <details class="position-relative col-12">
                         <summary> Power BI Development & Executive Dashboards</summary>
                         <div>
                             <div class="card card-body">
@@ -136,7 +139,7 @@
                         </div>
                     </details>
 
-                    <details class="position-relative col-8">
+                    <details class="position-relative col-12">
                         <summary> Machine Learning Applications for Environmental Systems</summary>
                         <div>
                             <div class="card card-body">
@@ -154,7 +157,7 @@
                         </div>
                     </details>
 
-                    <details class="position-relative col-8">
+                    <details class="position-relative col-12">
                         <summary> Artificial Intelligence (AI) for Environmental Governance</summary>
                         <div>
                             <div class="card card-body">
@@ -172,7 +175,7 @@
                         </div>
                     </details>
 
-                    <details class="position-relative col-8">
+                    <details class="position-relative col-12">
                         <summary> Digital Transformation</summary>
                         <div>
                             <div class="card card-body">

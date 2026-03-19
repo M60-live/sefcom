@@ -1,4 +1,4 @@
-@extends('layouts.top-layout')
+@extends('layouts.other-layout')
 @section('content')
 
     <!-- Banner One Start
