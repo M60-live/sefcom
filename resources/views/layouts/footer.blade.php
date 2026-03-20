@@ -6,9 +6,8 @@
             <div class="col-sm-6 col-lg-4">
                 <div class="footer-widget sm-mt-0">
                     <div class="footer-logo">
-                        <a href="#"><img src="images/logo2_resized.png" alt="images" style="width: 200%;"></a>
+                        <a href="#"><img src="images/logo2_resized.png" alt="images" style="width: 110%;" /></a>
                     </div>
-
                 </div>
             </div>
             <div class="col-sm-6 col-lg-4">

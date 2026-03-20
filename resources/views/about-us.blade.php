@@ -32,7 +32,7 @@
 	<section class="about-us">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12 col-lg-8 col-xl-7">
+				<div class="col-md-12 col-lg-8">
 					<div class="why-us">
 						<div class="title">
 							<h2 class="position-relative va-lb-line-w50-h2-primary pb-15 mb-30">Independent International Consulting Consortium</h2>
@@ -43,8 +43,8 @@
 					</div>
 
 				</div>
-				<div class="col-md-12 col-lg-4 col-xl-5">
-					<div class="why-us-img z-index-1 position-relative mb-20 ml-20 lg-mt-50"><img src="images/other/1.jpg" alt="image">
+				<div class="col-md-12 col-lg-4">
+					<div class="why-us-img z-index-1 position-relative mb-20 ml-20 lg-mt-50"><img src="images/home/22.jpg" alt="image">
 					</div>
 				</div>
 
