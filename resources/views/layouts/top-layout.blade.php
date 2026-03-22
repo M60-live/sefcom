@@ -52,7 +52,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<nav class="navbar navbar-expand-lg navbar-light px-0">
-							<a class="navbar-brand" href="/"><img src="images/logo2_resized.png" alt="SEFCOM" /></a>
+							<a class="navbar-brand" href="/"><img src="images/logo2.png" alt="SEFCOM" style="width: 125px;" /></a>
 							<button class="toggle-btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			                    <span></span>
 			                    <span></span>
