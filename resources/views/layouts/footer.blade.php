@@ -49,7 +49,7 @@
 	        <div class="row">
 				<div class="col-md-12 col-lg-12">
 					<div class="copyright-style-2 color-white py-15 text-center">
-						© 2024 Copyright Sefcom Environmental Consulting| All Rights Reserved
+						© {{ date('Y', time()) }} Copyright Sefcom Environmental Consulting| All Rights Reserved
 					</div>
 				</div>
 	        </div>
