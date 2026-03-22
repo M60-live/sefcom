@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>SEC | SEFCOM ENVIRONMENTAL CONSULTING</title>
-    <meta name="description" content="ENVIRONMENTAL CONSULTING">
-    <meta name="keywords" content="SEFCOM ENVIRONMENTAL CONSULTING">
+    <title>Sefcom | Environmental Consulting Consortium</title>
+    <meta name="description" content="Environmental Consulting Consortium">
+    <meta name="keywords" content="Hydrology, Mining, Geochemistry, Hydropower, Hydrogeology">
     <meta name="robots" content="INDEX,FOLLOW">
 
     <!-- Favicons - Place favicon.ico in the root directory -->
-    <link href="images/logo2.png" rel="icon">
-    <link href="images/logo2.png" rel="apple-touch-icon">
+    <link href="images/fav.png" rel="icon">
+    <link href="images/fav.png" rel="apple-touch-icon">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="images/logo2.png">
     <meta name="theme-color" content="#ffffff">
@@ -36,7 +36,7 @@
   	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
 	<!-- Favicon Icon -->
-	<link rel="shortcut icon" type="image/x-icon" href="images/Original R.png">
+	<link rel="shortcut icon" type="image/x-icon" href="images/fav.png">
 </head>
 <body id="top">
 	<!-- Start Back to top
@@ -52,7 +52,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<nav class="navbar navbar-expand-lg navbar-light px-0">
-							<a class="navbar-brand" href="/"><img src="images/logo2_resized.png" alt="SEFCOM" /></a>
+							<a class="navbar-brand" href="/"><img src="images/logo2.png" alt="SEFCOM" style="width: 110px;" /></a>
 							<button class="toggle-btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			                    <span></span>
 			                    <span></span>

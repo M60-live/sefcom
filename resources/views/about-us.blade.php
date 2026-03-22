@@ -38,8 +38,17 @@
 							<h2 class="position-relative va-lb-line-w50-h2-primary pb-15 mb-30">Independent International Consulting Consortium</h2>
 						</div>
 						<p class="mb-15">Sefcom Environmental Consulting is a specialist environmental and water resource advisory firm providing integrated environmental governance, regulatory compliance, hydrological, hydrogeological, geochemical expertise, and advanced data-driven solutions.</p>
-						<p>We support mining operations, industrial facilities, infrastructure developers, and regulatory institutions in achieving sustainable environmental performance through science-based assessments, risk-informed decision-making, and digital environmental intelligence.</p>
-						<hr class="my-30">
+						<p class="mb-15">We support mining operations, industrial facilities, infrastructure developers, and regulatory institutions in achieving sustainable environmental performance through science-based assessments, risk-informed decision-making, and digital environmental intelligence.</p>
+                        <p><strong>Our Approach Integrates:</strong></p>
+                        <div class="list-style mb-30 mt-25">
+                            <ul>
+                                <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Hydrogeology and water resource management</li>
+                                <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Regulatory compliance and audit assurance</li>
+                                <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>ESG-aligned water stewardship</li>
+                                <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental data science and digital transformation</li>
+                                <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Machine learning and AI-driven compliance analytics</li>
+                            </ul>
+                        </div>
 					</div>
 
 				</div>
@@ -47,7 +56,6 @@
 					<div class="why-us-img z-index-1 position-relative mb-20 ml-20 lg-mt-50"><img src="images/home/22.jpg" alt="image">
 					</div>
 				</div>
-
 			</div>
             <div class="row">
                 <div class="col-md-12">
@@ -62,22 +70,6 @@
                     </div>
 
                     <details class="position-relative col-12">
-                        <div class="service-wrap">
-                            <p class="pb-2">Our Approach Integrates:</p>
-                            <div class="list-style mb-30 mt-25">
-                                <ul>
-                                    <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Hydrogeology and water resource management</li>
-                                    <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Regulatory compliance and audit assurance</li>
-                                    <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>ESG-aligned water stewardship</li>
-                                    <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental data science and digital transformation</li>
-                                    <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Machine learning and AI-driven compliance analytics</li>
-                                </ul>
-                            </div>
-                            <p>We position ourselves at the intersection of environmental science and data intelligence, delivering solutions that are technically robust, regulator-ready, and decision-focused.</p>
-                        </div>
-                    </details>
-
-                    <details class="position-relative col-12 pt-4">
                         <summary> Core Environmental & Water Resource Services</summary>
                         <div>
                             <div class="card card-body">
