@@ -31,7 +31,7 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Hydrology Page.png" alt="images">
+									<img src="images/services/Hydrology Page.jpg" alt="images">
 									<img src="images/services/hydrology.jpg" alt="images">
 									
 								</div>

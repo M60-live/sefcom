@@ -3,7 +3,7 @@
 
 <!-- Start banner
 	====================================================-->
-	<div id="particles-js" class="w-100 vh-100 overlay-white" style="background: url(images/background/Home.png) no-repeat center center / cover fixed;">
+	<div id="particles-js" class="w-100 vh-100 overlay-white" style="background: url(images/background/Home.jpg) no-repeat center center / cover fixed;">
 		<div class="container h-100">
 			<div class="row h-100">
 				<div class="col-md-12 col-lg-12 h-100">
@@ -26,13 +26,13 @@
 	<!-- End banner
 	====================================================-->
 
-    <!-- Grow Your Business Start
+    <!-- Grow Your Business Start 
     ====================================================-->
     <div class="grow-business py-80">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-lg-4 col-xl-6">
-                    <div class="grow-business-img z-index-1 position-relative"><img src="images/home/mining_solutions.png" alt="image" /></div>
+                    <div class="grow-business-img z-index-1 position-relative"><img src="images/home/logo2.png" alt="image" /></div>
                 </div>
                 <div class="col-md-12 col-lg-8 col-xl-6">
                     <div class="grow-info">
