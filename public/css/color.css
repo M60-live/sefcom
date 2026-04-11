@@ -4,8 +4,8 @@ h1, h2, h3, h4, h5, h6{
 body{
 	color: #666666;
 }
-/* Text Color 
-===================================================*/ 
+/* Text Color
+===================================================*/
 .color-primary, .color-primary-a{
 	color: #4BAF47 !important; /* color Primary */
 }
@@ -53,7 +53,7 @@ body{
 .icon-white:before{
 	color: #fff;  /* icon white */
 }
-/* Background Color 
+/* Background Color
 ====================================================*/
 .bg-primary{
 	background-color: #4BAF47 !important; /* Background color primary */
@@ -80,9 +80,9 @@ body{
 	background-color: #f5ff12
 }
 .bg-green{
-	background-color: #4BAF47 
+	background-color: #4BAF47
 }
-/* All Button Color 
+/* All Button Color
 ===================================================*/
 .btn-window .top,
 .btn-window .bottom{
@@ -160,8 +160,8 @@ body{
   background-color: #082136;
   color: #fff
 }
-/* All Class Text Color 
-===================================================*/ 
+/* All Class Text Color
+===================================================*/
 /* Color Primary
 --------------------*/
 .btn-link:hover,
@@ -182,7 +182,7 @@ body{
 .nav-header .dropdown-item:hover,
 .navbar-light .navbar-nav .nav-link:hover,
 .nav-header .nav-item span:hover,
-.navbar-light .navbar-nav.nav-white .nav-link:hover, 
+.navbar-light .navbar-nav.nav-white .nav-link:hover,
 .nav-header .navbar-nav.nav-white .nav-item span:hover,
 .navbar .navbar-nav li > a.active,
 .burger-nav .navbar-nav .nav-link:hover,
@@ -258,7 +258,7 @@ body{
 }
 /* Color White
 --------------------*/
-.navbar-light .navbar-nav.nav-white .nav-link, 
+.navbar-light .navbar-nav.nav-white .nav-link,
 .nav-header .navbar-nav.nav-white .nav-item span,
 .box-style-2:hover .box-title-2 a,
 .color-white-a a,
@@ -295,8 +295,8 @@ body{
 .ratting li{
 	color: #ffc600;
 }
-/* Background Color 
-===================================================*/ 
+/* Background Color
+===================================================*/
 /* Background Color Primary
 -------------------------------*/
 ::-webkit-scrollbar-thumb,
@@ -423,7 +423,7 @@ body{
 	background-color: #051929
 }
 /* Border Color
-===================================================*/ 
+===================================================*/
 .process-icon,
 .process-icon sup,
 .border-all,
@@ -476,7 +476,7 @@ body{
 .border-b1,
 .contact-form-1 .contact-message-1 .form-control,
 .contact-form-2 .contact-message-2 .form-control{
-	border-color: #dfdfdf;	
+	border-color: #dfdfdf;
 }
 .border-b-1-light{
 	border-color: #dfdfdf;
@@ -498,9 +498,9 @@ body{
   border-color: #082136 #082136 #082136 transparent
 }
 /* Overlay color
-===================================================*/ 
+===================================================*/
 .overlay-white:before{
-	background-color: rgba(255,255,255,0.7);
+	background-color: rgba(255,255,255,0.5);
 }
 .achive-icon-one:before{
 	background-color: rgba(108,117,125,0.2);
@@ -529,7 +529,7 @@ body{
 	background-color: rgba(8, 33, 54, 0.9);
 }
 /* Box Shadow
-===================================================*/ 
+===================================================*/
 .box-shadow,
 .custom-options,
 .thumbnail-2,
@@ -556,8 +556,8 @@ body{
 .gallery-5 .gallerynav-four:hover{
 	color: #4BAF47
 }
-.gallery-3 .gallerynav-three:before, 
-.gallery-3 .gallerynav-three:after, 
+.gallery-3 .gallerynav-three:before,
+.gallery-3 .gallerynav-three:after,
 .gallery-3 .gallerynav-three{
 	background-color: #082136
 }
