@@ -32,7 +32,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-lg-4 col-xl-6">
-                    <div class="grow-business-img z-index-1 position-relative"><img src="images/services/mining.png" alt="image" /></div>
+                    <div class="grow-business-img z-index-1 position-relative"><img src="/images/services/mining.png" alt="image" /></div>
                 </div>
                 <div class="col-md-12 col-lg-8 col-xl-6">
                     <div class="grow-info">
@@ -71,31 +71,31 @@
                         </div>
                         <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                             <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 md-mt-30">
-                                <img src="images/home/mining_solutions.png" alt="image" />
+                                <img src="/images/home/mining_solutions.png" alt="image" />
                                 <a href="#"><h4 class="box-title-3 my-20 d-inline-block">Mining Solutions</h4></a>
                             </div>
                         </div>
                         <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                             <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 md-mt-30">
-                                <img src="images/home/environmental_monitoring.png" alt="image" />
+                                <img src="/images/home/environmental_monitoring.png" alt="image" />
                                 <a href="#"><h4 class="box-title-3 my-20 d-inline-block">Environmental Monitoring</h4></a>
                             </div>
                         </div>
                         <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                             <div class="box-style-3 position-relative xl-mt-30 lg-mt-30 flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                <img src="images/home/energy_infrastructure.png" alt="image" />
+                                <img src="/images/home/energy_infrastructure.png" alt="image" />
                                 <a href="#"><h4 class="box-title-3 my-20 d-inline-block">Energy & Infrastructure</h4></a>
                             </div>
                         </div>
                         <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                             <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                <img src="images/home/water_monitoring.png" alt="image" />
+                                <img src="/images/home/water_monitoring.png" alt="image" />
                                 <a href="#"><h4 class="box-title-3 my-20 d-inline-block">Water Monitoring</h4></a>
                             </div>
                         </div>
                         <div class="col-12 col-md-6 col-lg-6 col-xl-4">
                             <div class="box-style-3 position-relative flat-large icon-primary py-40 px-30 bg-white shadow-thik-black-01-hov transition-5 hov-trans-b-t-5 shadow-smooth-black-01 mt-30">
-                                <img src="images/home/environmental_data_analytics.png" alt="image" />
+                                <img src="/images/home/environmental_data_analytics.png" alt="image" />
                                 <a href="#"><h4 class="box-title-3 my-20 d-inline-block">Environmental Data Analytics</h4></a>
                             </div>
                         </div>

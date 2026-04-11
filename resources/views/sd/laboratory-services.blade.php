@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Laboratory Services Page.png" alt="images">
-									<img src="images/services/Lab.jpg" alt="images">
-									
+									<img src="/images/services/Laboratory Services Page.png" alt="images">
+									<img src="/images/services/Lab.jpg" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -43,40 +43,40 @@
 									<p> While SEC operates as an independent environmental advisory firm, we facilitate sampling design, chain-of-custody control, and sample submission to accredited, full-service analytical laboratories internationally. All laboratories engaged operate under recognised accreditation frameworks (e.g., ISO/IEC 17025), ensuring data quality, traceability, and compliance with regulatory standards.</p>
 									<p>Our laboratory coordination services are aligned with environmental governance requirements, compliance reporting frameworks, and ESG performance monitoring systems.</p>
 									<h5 class="pt-4">Core Laboratory & Analytical Support Services:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Water Analysis</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Surface water, groundwater, process water, and effluent analysis</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Major ions, trace metals, nutrients, TSS, salinity, and physico-chemical parameters</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Acid Rock Drainage (ARD) and Acid Mine Drainage (AMD) indicators</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Compliance monitoring aligned with licence conditions and water quality objectives</li>
-                                        
+
 										<h5 class="color-secondery pt-2">Geochemical Characterisation</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Acid–Base Accounting (ABA)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Static and kinetic leach testing (e.g., humidity cell testing)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Metal leachability and contaminant mobility assessment</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Tailings and waste rock geochemical profiling</li>
-                                        
-									
+
+
                                         <h5 class="color-secondery pt-2">Soil Characterisation</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Physical and chemical soil properties</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Contamination screening (metals, hydrocarbons, organics)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Agricultural suitability and rehabilitation assessment inputs</li>
-										
-                                        
+
+
 										<h5 class="color-secondery pt-2">Air Quality Analysis</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Particulate matter (PM10 / PM2.5) analysis</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Dust fallout and deposition monitoring</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Ambient air quality compliance parameters</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Emissions-related analytical support</li>
-                                        
+
 
                                         <h5 class="color-secondery pt-2">Specialised Analytical Services</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Cyanide and arsenic speciation</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Hydrocarbon and petroleum-related compound analysis</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Isotopic and tracer studies</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Radiometric and specialised mineralogical testing</li>
-							
+
 
                                         <h5 class="color-secondery pt-2">Integrated Data Quality & Governance</h5>
                                         <p>SEC ensures that laboratory data integrates seamlessly into:</p>
@@ -101,14 +101,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Laboratory Services</a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/soil-science">Soil Science</a></li> 
+							<li><a  href="/soil-science">Soil Science</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/environmental-assessment">Environmental Assessment</a></li> 
+							<li><a  href="/environmental-assessment">Environmental Assessment</a></li>
 							<li><a  href="/hydropower">Hydropower</a></li>
-							<li><a  href="/infrastructure">Infrastructure</a></li> 
+							<li><a  href="/infrastructure">Infrastructure</a></li>
 							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey </a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling </a></li>
@@ -129,7 +129,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

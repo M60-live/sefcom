@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/FS-.jpg" alt="images">
-									<img src="images/services/fs.jpg" alt="images">
-									
+									<img src="/images/services/FS-.jpg" alt="images">
+									<img src="/images/services/fs.jpg" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -43,7 +43,7 @@
 									<p> From project inception, we combine multidisciplinary technical evaluation, risk-based assessment, and data-driven analytics to test concept viability, quantify uncertainty, and define clear pathways to implementation.</p>
                                     <p>Our approach integrates environmental intelligence, water governance, regulatory compliance, climate resilience, and digital modelling to ensure projects are technically robust, financially informed, and ESG-aligned from the outset.</p>
 									<h5 class="pt-4">Core Capabilities:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Project Development & Strategic Advisory</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Early-stage scoping and concept validation</li>
@@ -57,14 +57,14 @@
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Infrastructure optimisation and systems integration</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Digital water balance modelling</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Closure and long-term environmental planning</li>
-										
+
                                         <h5 class="color-secondery pt-2">Mining Project Establishment</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Baseline environmental and hydrogeological studies</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Water supply and dewatering feasibility</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Tailings and waste facility water risk assessments</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>ARD/AMD screening and geochemical studies</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Permitting and compliance strategy development</li>
-										
+
                                         <h5 class="color-secondery pt-2">Climate Resilience & Adaptation</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Physical and transitional climate risk assessments</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Flood and drought resilience modelling</li>
@@ -77,7 +77,7 @@
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Compliance risk evaluation</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Data-driven benchmarking</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Independent technical review and assurance</li>
-                                        
+
 									</ul>
 								</div>
 							</div>
@@ -88,14 +88,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Feasibility and Project Development</a></li>
-							<li><a  href="/soil-science">Soil Science </a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/soil-science">Soil Science </a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/geochemistry">Geochemistry</a></li> 
+							<li><a  href="/geochemistry">Geochemistry</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/hydropower">Hydropower</a></li> 
+							<li><a  href="/hydropower">Hydropower</a></li>
 							<li><a  href="/infrastructure">Infrastructure</a></li>
-							<li><a  href="/energy">Energy & Energy Transition</a></li> 
+							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
@@ -116,7 +116,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

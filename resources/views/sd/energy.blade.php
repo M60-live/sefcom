@@ -31,9 +31,8 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Energy & Energy Transition.jpg" alt="images">
-									<img src="images/services/e.jpg" alt="images">
-									
+									<img src="/images/services/Energy & Energy Transition.jpg" alt="images">
+									<img src="/images/services/e.jpg" alt="images">
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -43,36 +42,36 @@
 									<p> Our approach integrates environmental intelligence, water governance, regulatory alignment, and data-driven analytics to deliver technically robust and regulator-ready energy solutions.</p>
 									<p>SEC supports projects across the full lifecycle, from early-stage feasibility through permitting, construction, operation, and closure, ensuring alignment with decarbonisation strategies, sustainable development objectives, and climate resilience frameworks.</p>
 									<h5 class="pt-4">Energy Transition Services:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Strategic & Feasibility Advisory</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Technical and environmental feasibility studies</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Energy transition strategy support</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Risk-based scenario modelling and decision support</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Climate-aligned infrastructure planning</li>
-										
-                                        
+
+
 										<h5 class="color-secondery pt-2">Environmental & Social Governance</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental Screening and Sensitivity Mapping</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental and Social Impact Assessments (ESIAs)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental and Social Management Plans (ESMPs)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Specialist environmental, social, and legal assessments</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Stakeholder engagement strategy and implementation</li>
-									
+
                                         <h5 class="color-secondery pt-2">Regulatory & Permitting Support</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Water Use Licence (WUL / IWUL) applications</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Regulatory pathway development</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Compliance risk analysis and governance advisory</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Appeal submissions and regulatory liaison</li>
-										
-                                        
+
+
 										<h5 class="color-secondery pt-2">Integrated Project Management</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Multidisciplinary coordination of specialist studies</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Integrated project coordination and oversight</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Construction-phase environmental management</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Audit readiness and compliance tracking systems</li>
-										
-                                        
+
+
 										<h5 class="color-secondery pt-2">Risk, Rehabilitation & Closure</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental and climate risk assessments</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Land management and restoration planning</li>
@@ -89,14 +88,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Energy & Energy Transition</a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/soil-science">Soil Science</a></li> 
+							<li><a  href="/soil-science">Soil Science</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/environmental-assessment">Environmental Assessment</a></li> 
+							<li><a  href="/environmental-assessment">Environmental Assessment</a></li>
 							<li><a  href="/hydropower">Hydropower</a></li>
-							<li><a  href="/infrastructure">Infrastructure</a></li> 
+							<li><a  href="/infrastructure">Infrastructure</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
@@ -117,7 +116,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

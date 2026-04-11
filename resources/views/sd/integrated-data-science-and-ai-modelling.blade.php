@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Integrated Data Science & AI Modelling.png" alt="images">
-									<img src="images/services/intergrated.png" alt="images">
-									
+									<img src="/images/services/Integrated Data Science & AI Modelling.png" alt="images">
+									<img src="/images/services/intergrated.png" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -43,28 +43,28 @@
 									<p> Our capability is built on strong foundations in physical measurement systems, computational science, and environmental domain expertise, enabling us to transform complex, noisy, and disparate datasets into predictive, regulator-ready intelligence.</p>
 									<p>We integrate sensor systems, geospatial analytics, applied statistics, and scalable software engineering to solve high-impact environmental and resource-sector challenges.</p>
 									<h5 class="pt-4">Core Technical Capabilities:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Scientific Data Acquisition & Systems Integration</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Design and integration of physical measurement systems (optical, electromagnetic, radiometric, gravity-based)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental sensor deployment and data acquisition systems</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Processing of complex, noisy, and multi-source physical datasets</li>
-                                        
+
 										<h5 class="color-secondery pt-2">Advanced Analytics & Applied Statistics</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Multivariate analysis and time-series forecasting</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Physics-informed environmental modelling</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Geospatial analysis and spatial data integration</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Statistical compliance and trend evaluation</li>
-                                        
-									
+
+
                                         <h5 class="color-secondery pt-2">Machine Learning & Predictive Modelling</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Predictive modelling for hydrological, hydrogeological, geochemical, and geotechnical systems</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Anomaly detection and early-warning systems</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Geospatial ML and geostatistical modelling</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Mineral exploration analytics under sparse-data conditions</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Image processing and computer vision for drone and remote sensing data</li>
-										
-                                        
+
+
 										<h5 class="color-secondery pt-2">Scalable Digital & Cloud Architecture</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Python-based scientific computing and modelling workflows</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>SQL and non-relational database systems</li>
@@ -92,14 +92,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Integrated Data Science & AI Modelling</a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/soil-science">Soil Science</a></li> 
+							<li><a  href="/soil-science">Soil Science</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/environmental-assessment">Environmental Assessment</a></li> 
+							<li><a  href="/environmental-assessment">Environmental Assessment</a></li>
 							<li><a  href="/hydropower">Hydropower</a></li>
-							<li><a  href="/infrastructure">Infrastructure</a></li> 
+							<li><a  href="/infrastructure">Infrastructure</a></li>
 							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey </a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
@@ -120,7 +120,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

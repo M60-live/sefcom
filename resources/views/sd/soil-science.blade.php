@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Soil Science Page.png" alt="images">
-									<img src="images/services/Soil Science.jpg" alt="images">
-									
+									<img src="/images/services/Soil Science Page.png" alt="images">
+									<img src="/images/services/Soil Science.jpg" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -42,7 +42,7 @@
 									<p class="mb-15">Sefcom Environmental Consulting (SEC) provides specialist soil science services that support sustainable land management, mine rehabilitation, closure planning, agricultural suitability assessments, and regulatory compliance.</p>
 									<p> Our multidisciplinary network of professional soil scientists integrates field investigations, laboratory analysis, land capability assessment, and data-driven modelling to deliver practical, regulator-ready soil and land resource solutions. We adopt a holistic approach that links soil taxonomy, land capability, erosion risk, rehabilitation design, and long-term land-use planning. SEC supports mining, infrastructure, agricultural, and industrial projects across the full lifecycle — from baseline assessments and feasibility through operations, rehabilitation, and closure.</p>
 									<h5 class="pt-4">Soil Science Services:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Land Resource & Capability Assessment</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Soil classification and taxonomy</li>
@@ -54,12 +54,12 @@
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Sediment transport evaluation</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Design of erosion and sediment control measures</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Stormwater–soil interaction assessments</li>
-										
+
                                         <h5 class="color-secondery pt-2">Soil Quality & Laboratory Analysis</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Physical, chemical, and fertility assessments</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Contamination screening and soil health evaluation</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Soil suitability for rehabilitation and revegetation</li>
-										
+
                                         <h5 class="color-secondery pt-2">Landform & Cover Design</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Rehabilitation landform design</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Engineered cover systems for waste facilities</li>
@@ -71,7 +71,7 @@
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Top soil management and handling plans</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Post-mining soil reconstruction strategies</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Sustainable revegetation support</li>
-                                        
+
 									</ul>
 								</div>
 							</div>
@@ -82,14 +82,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Soil Science</a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/geochemistry">Geochemistry</a></li> 
+							<li><a  href="/geochemistry">Geochemistry</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/hydropower">Hydropower</a></li> 
+							<li><a  href="/hydropower">Hydropower</a></li>
 							<li><a  href="/infrastructure">Infrastructure</a></li>
-							<li><a  href="/energy">Energy & Energy Transition</a></li> 
+							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
@@ -110,7 +110,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

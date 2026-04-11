@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Hydrology Page.jpg" alt="images">
-									<img src="images/services/hydrology.jpg" alt="images">
-									
+									<img src="/images/services/Hydrology Page.jpg" alt="images">
+									<img src="/images/services/hydrology.jpg" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -67,14 +67,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Hydrology</a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrogeology">Hydrogeology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrogeology">Hydrogeology</a></li>
 							<li><a  href="/geochemistry">Geochemistry</a></li>
-							<li><a  href="/soil-science">Soil Science</a></li> 
+							<li><a  href="/soil-science">Soil Science</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/hydropower">Hydropower</a></li> 
+							<li><a  href="/hydropower">Hydropower</a></li>
 							<li><a  href="/infrastructure">Infrastructure</a></li>
-							<li><a  href="/energy">Energy & Energy Transition</a></li> 
+							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
@@ -95,7 +95,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Environmental Assessment Page.jpg" alt="images">
-									<img src="images/services/ea.jpg" alt="images">
-									
+									<img src="/images/services/Environmental Assessment Page.jpg" alt="images">
+									<img src="/images/services/ea.jpg" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -43,20 +43,20 @@
 									<p> Environmental authorisation processes are complex, technical, and legally sensitive. SEC delivers scientifically rigorous, regulator-aligned Environmental and Social Impact Assessments (ESIAs) supported by structured legal interpretation of environmental statutes, licence conditions, and compliance obligations.</p>
 									<p>Our approach integrates environmental science, water governance, regulatory law, risk-based assessment, and data-driven analysis to ensure projects are technically sound, legally defensible, and aligned with ESG principles.</p>
 									<h5 class="pt-4">Core Environmental Assessment Services:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Feasibility & Early-Stage Regulatory Strategy</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental constraints and risk screening</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Regulatory pathway mapping and permitting strategy</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Integration of baseline studies into feasibility planning</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Decision-support modelling and scenario testing</li>
-                                        
+
 										<h5 class="color-secondery pt-2">Environmental & Social Impact Assessment (ESIA)</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Full-scope ESIAs aligned with national and international standards</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental and Social Management Plans (ESMPs)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Cumulative impact and climate risk integration</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Mitigation hierarchy application and monitoring frameworks</li>
-									
+
                                         <h5 class="color-secondery pt-2">Environmental Legal & Regulatory Support</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Interpretation of environmental legislation and licence conditions</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Compliance gap analysis and statutory risk profiling</li>
@@ -64,24 +64,24 @@
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Support to legal teams during regulatory disputes</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Technical expert input for environmental litigation</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Preparation of expert reports and affidavits</li>
-                                        
+
 										<h5 class="color-secondery pt-2">Water Use Licence & Authorisation Support</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Integrated Water Use Licence (IWUL/WUL) applications</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Technical justifications aligned with statutory requirements</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Licence condition compliance audits</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Regulatory engagement and authority liaison</li>
-                                        
+
 										<h5 class="color-secondery pt-2">Environmental & Social Risk Assessment</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Impact significance evaluation</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Climate-related environmental risk screening</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Operational environmental risk profiling</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Data-driven compliance monitoring systems</li>
-                                        
+
 										<h5 class="color-secondery pt-2">Appeals & Regulatory Proceedings</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Technical review of authorisation decisions</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Preparation of appeal documentation</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Expert witness and independent technical advisory support</li>
-									
+
 									</ul>
 								</div>
 							</div>
@@ -92,14 +92,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Environmental Assessment</a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/soil-science">Soil Science</a></li> 
+							<li><a  href="/soil-science">Soil Science</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/hydropower">Hydropower</a></li> 
+							<li><a  href="/hydropower">Hydropower</a></li>
 							<li><a  href="/infrastructure">Infrastructure</a></li>
-							<li><a  href="/energy">Energy & Energy Transition</a></li> 
+							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
@@ -120,7 +120,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

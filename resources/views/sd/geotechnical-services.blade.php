@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Geotechnical Services Page.png" alt="images">
-									<img src="images/services/Geotechnical-Services.jpg" alt="images">
-									
+									<img src="/images/services/Geotechnical Services Page.png" alt="images">
+									<img src="/images/services/Geotechnical-Services.jpg" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -42,7 +42,7 @@
 									<p class="mb-15">Sefcom Environmental Consulting (SEC) delivers integrated geotechnical advisory and engineering services that support safe, stable, and climate-resilient mining and infrastructure development.</p>
 									<p> We provide risk-informed geotechnical solutions to minimise instability, protect assets, and ensure regulatory compliance across the full project lifecycle, from investigation and design through operations and closure. Our multidisciplinary teams combine expertise in geotechnical engineering, rock and soil mechanics, geological engineering, hydrology, hydrogeology, and tailings systems to deliver technically defensible and operationally practical outcomes.</p>
 									<h5 class="pt-4">Core Geotechnical Capabilities:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Geotechnical Investigation & Site Characterisation</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Mining geotechnical investigations</li>
@@ -55,13 +55,13 @@
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Underground excavation and tunnel stability</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Cut roads and civil earthworks stability</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Tailings storage facility (TSF) geotechnical support</li>
-										
+
                                         <h5 class="color-secondery pt-2">Geotechnical Numerical Modelling</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>2D and 3D stability modelling</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Stress–strain and deformation analysis</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Seepage–stability interaction modelling</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Risk-based scenario and sensitivity analysis</li>
-										
+
                                         <h5 class="color-secondery pt-2">Operational Geotechnical Support</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Ongoing slope and ground performance monitoring</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Hazard identification and risk mitigation planning</li>
@@ -78,14 +78,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Geotechnical Services</a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/geochemistry">Geochemistry</a></li> 
+							<li><a  href="/geochemistry">Geochemistry</a></li>
 							<li><a  href="/soil-science">Soil Science</a></li>
-							<li><a  href="/hydropower">Hydropower</a></li> 
+							<li><a  href="/hydropower">Hydropower</a></li>
 							<li><a  href="/infrastructure">Infrastructure</a></li>
-							<li><a  href="/energy">Energy & Energy Transition</a></li> 
+							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
@@ -106,7 +106,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

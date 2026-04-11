@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Geochemistry Page.png" alt="images">
-									<img src="images/services/Geochemistry.jpg" alt="images">
-									
+									<img src="/images/services/Geochemistry Page.png" alt="images">
+									<img src="/images/services/Geochemistry.jpg" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -42,7 +42,7 @@
 									<p class="mb-15">Sefcom Environmental Consulting (SEC) delivers advanced geochemical assessment services to support responsible resource development, mine water management, regulatory compliance, and long-term environmental stewardship.</p>
 									<p> Our expertise spans the full mining lifecycle, from exploration and feasibility through operations and closure, with particular specialisation in Acid Rock Drainage (ARD), Acid Mine Drainage (AMD), and mine waste geochemistry. We support projects across base and precious metals, coal, lithium, iron ore, mineral sands, and industrial minerals. <br>SEC integrates laboratory testing, field investigations, geochemical modelling, and data-driven risk analysis to develop defensible, regulator-ready solutions for complex geochemical challenges.</p>
 									<h5 class="pt-4">Geochemical Assessment Services:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Acid Rock Drainage & Mine Waste Geochemistry</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Acid–Base Accounting (ABA)</li>
@@ -65,7 +65,7 @@
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Long-term geochemical stability assessments</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Closure risk evaluation and mitigation planning</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Predictive geochemical modelling for post-closure performance</li>
-                                        
+
 									</ul>
 								</div>
 							</div>
@@ -76,14 +76,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Geochemistry </a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/soil-science">Soil Science</a></li> 
+							<li><a  href="/soil-science">Soil Science</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/hydropower">Hydropower</a></li> 
+							<li><a  href="/hydropower">Hydropower</a></li>
 							<li><a  href="/infrastructure">Infrastructure</a></li>
-							<li><a  href="/energy">Energy & Energy Transition</a></li> 
+							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
@@ -104,7 +104,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

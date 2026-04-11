@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Hydropower.jpg" alt="images">
-									<img src="images/services/Hydropower Page.jpg" alt="images">
-									
+									<img src="/images/services/Hydropower.jpg" alt="images">
+									<img src="/images/services/Hydropower Page.jpg" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -43,7 +43,7 @@
 									<p> As global energy systems transition toward low-carbon solutions, hydropower remains a critical component of energy security, water resource optimisation, and socio-economic development. SEC provides multidisciplinary expertise across the full hydropower project lifecycle, from concept and feasibility through design, construction, commissioning, and operational optimisation.</p>
 									<p>We integrate engineering, environmental governance, regulatory compliance, and advanced modelling to deliver technically robust, financially informed, and ESG-aligned hydropower solutions.</p>
 									<h5 class="pt-4">Hydropower Services:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Project Development & Design</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Concept development and prefeasibility studies</li>
@@ -53,28 +53,28 @@
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Design review and independent technical assurance</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Site supervision and construction oversight</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Commissioning support</li>
-                                        
+
 										<h5 class="color-secondery pt-2">Multidisciplinary Engineering Integration</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Geological and geotechnical investigations</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Hydrology and hydraulic modelling</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Civil and structural design review</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Tunnelling and underground works advisory</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Mechanical and electrical systems integration</li>
-									
+
                                         <h5 class="color-secondery pt-2">Regulatory, Environmental & Social Advisory</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental & Social Impact Assessments (ESIA)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Regulatory and institutional framework alignment</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Health and safety coordination</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Social risk and stakeholder considerations</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Compliance and governance advisory</li>
-                                        
+
 										<h5 class="color-secondery pt-2">Digital Engineering & Advanced Modelling</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>VDC / BIM (Virtual Design & Construction / Building Information Modelling)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Climate change impact modelling</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>CFD (Computational Fluid Dynamics) analysis</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Sediment transport and reservoir management modelling</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Dam safety and performance analytics</li>
-                                        
+
 										<h5 class="color-secondery pt-2">Commercial & Operational Advisory</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Due diligence and independent technical review</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Asset valuation and performance benchmarking</li>
@@ -82,7 +82,7 @@
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Monitoring, instrumentation, and survey systems</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Operation & Maintenance advisory</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Training and capacity building</li>
-									
+
 									</ul>
 								</div>
 							</div>
@@ -93,14 +93,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Hydropower</a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/soil-science">Soil Science</a></li> 
+							<li><a  href="/soil-science">Soil Science</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/environmental-assessment">Environmental Assessment</a></li> 
+							<li><a  href="/environmental-assessment">Environmental Assessment</a></li>
 							<li><a  href="/infrastructure">Infrastructure</a></li>
-							<li><a  href="/energy">Energy & Energy Transition</a></li> 
+							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
@@ -121,7 +121,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/groundwater-monitoring-solutions.jpg" alt="images">
-									<img src="images/services/monitoring_system.jpg" alt="images">
-									
+									<img src="/images/services/groundwater-monitoring-solutions.jpg" alt="images">
+									<img src="/images/services/monitoring_system.jpg" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -43,32 +43,32 @@
 									<p> Through partnerships with reputable international manufacturers, SEC delivers high-quality instrumentation solutions supporting environmental monitoring, water governance, mining operations, infrastructure development, and regulatory compliance programmes.</p>
 									<p>We go beyond product supply to provide technical specification, system integration, installation, commissioning, data configuration, and digital monitoring support, ensuring instruments are fully operational, compliant, and aligned with project objectives.</p>
 									<h5 class="pt-4">Core Instrumentation & Monitoring Solutions:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Core Instrumentation Solutions Soil & Land Monitoring</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Soil moisture and infiltration instruments</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Erosion and sediment monitoring systems</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Soil quality and sampling equipment</li>
-                                        
-                                        
+
+
 										<h5 class="color-secondery pt-2">Surface & Groundwater Monitoring</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Flow meters and gauging stations</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Water level sensors and borehole data loggers</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Multiparameter water quality sondes</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Pump testing and aquifer monitoring equipment</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Real-time telemetry-enabled monitoring systems</li>
-                                        
-									
+
+
                                         <h5 class="color-secondery pt-2">Environmental & Air Quality Monitoring</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Ambient air quality stations (PM10 / PM2.5)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Dust, gas, noise, and vibration monitoring systems</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Emissions monitoring instrumentation</li>
-										
-                                        
+
+
 										<h5 class="color-secondery pt-2">Meteorological & Climate Monitoring</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Automated weather stations (AWS)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Rainfall, wind, solar radiation, and evaporation sensors</li>
-                    
+
                                         <h5 class="color-secondery pt-2">Digital Monitoring & Data Integration</h5>
                                         <p>SEC supports:</p>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Data logger configuration and telemetry systems</li>
@@ -83,7 +83,7 @@
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>System integration and performance verification</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Training and capacity building</li>
                                         <li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Calibration and maintenance coordination</li>
-                                        
+
 
 									</ul>
 								</div>
@@ -95,14 +95,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Environmental Monitoring Equipment Supply</a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/soil-science">Soil Science</a></li> 
+							<li><a  href="/soil-science">Soil Science</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/environmental-assessment">Environmental Assessment</a></li> 
+							<li><a  href="/environmental-assessment">Environmental Assessment</a></li>
 							<li><a  href="/hydropower">Hydropower</a></li>
-							<li><a  href="/infrastructure">Infrastructure</a></li> 
+							<li><a  href="/infrastructure">Infrastructure</a></li>
 							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey </a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling </a></li>
@@ -123,7 +123,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>

@@ -31,9 +31,9 @@
 						<div class="row">
 							<div class="col-md-12 col-lg-12">
 								<div class="owl-carousel service-slider owl-nav-style-one position-relative">
-									<img src="images/services/Infrastructure Page.png" alt="images">
-									<img src="images/services/Infrastructure.png" alt="images">
-									
+									<img src="/images/services/Infrastructure Page.png" alt="images">
+									<img src="/images/services/Infrastructure.png" alt="images">
+
 								</div>
 							</div>
 							<div class="col-md-12 col-lg-12">
@@ -43,33 +43,33 @@
 									<p> We support governments, developers, mining companies, and industrial operators in designing and implementing infrastructure that is environmentally sustainable, socially responsible, regulator-ready, and ESG-aligned. Our approach integrates environmental governance, climate analytics, water resource intelligence, and engineering optimisation to ensure infrastructure systems remain resilient under future climate and operational pressures.</p>
 									<p>SEC operates at the intersection of sustainability strategy, regulatory compliance, and technical delivery, turning high-level ESG commitments into practical, implementable infrastructure solutions.</p>
 									<h5 class="pt-4">Infrastructure Services:</h5>
-									
+
 									<ul class="pt-2">
                                         <h5 class="color-secondery">Planning, Permitting & Impact Assessment</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Environmental & Social Impact Assessments (ESIA)</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Regulatory pathway development and permitting support</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Integrated project coordination and compliance frameworks</li>
-										
-                                        
+
+
 										<h5 class="color-secondery pt-2">Climate Resilience & Adaptation</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Climate risk and vulnerability assessments</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Infrastructure adaptation planning</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Flood, drought, and extreme-event resilience modelling</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Climate-aligned infrastructure design inputs</li>
-									
+
                                         <h5 class="color-secondery pt-2">ESG & Transactional Advisory</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>ESG materiality assessments</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Sustainability strategy integration</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Due diligence and investment risk screening</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Performance benchmarking and reporting support</li>
-										
-                                        
+
+
 										<h5 class="color-secondery pt-2">Smart Mobility & Sustainable Transport</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Sustainable transport planning</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Infrastructure optimisation for low-carbon mobility</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Integration of smart and digital monitoring systems</li>
-										
-                                        
+
+
 										<h5 class="color-secondery pt-2">Water Resources & Natural Capital</h5>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Water resource studies and engineering design</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Catchment-scale planning and modelling</li>
@@ -84,8 +84,8 @@
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Infrastructure systems design review</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Engineering integration and optimisation</li>
 										<li><i class="bi bi-bullseye pr-2" style="color:#4BAF47;"></i>Construction oversight and technical assurance</li>
-				
-									
+
+
 									</ul>
 								</div>
 							</div>
@@ -96,14 +96,14 @@
 					<div class="side-menu-list bg-gray">
 						<ul>
 							<li><a class="active" href="#">Infrastructure</a></li>
-							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li> 
-							<li><a  href="/hydrology">Hydrology</a></li> 
+							<li><a  href="/feasibility-studies">Feasibility and Project Development</a></li>
+							<li><a  href="/hydrology">Hydrology</a></li>
 							<li><a  href="/hydrogeology">Hydrogeology</a></li>
-							<li><a  href="/soil-science">Soil Science</a></li> 
+							<li><a  href="/soil-science">Soil Science</a></li>
 							<li><a  href="/geotechnical-services">Geotechnical Services</a></li>
-							<li><a  href="/environmental-assessment">Environmental Assessment</a></li> 
+							<li><a  href="/environmental-assessment">Environmental Assessment</a></li>
 							<li><a  href="/hydropower">Hydropower</a></li>
-							<li><a  href="/energy">Energy & Energy Transition</a></li> 
+							<li><a  href="/energy">Energy & Energy Transition</a></li>
 							<li><a  href="/gis-and-drone-survey">GIS & Drone Survey</a></li>
 							<li><a  href="/integrated-data-science-and-ai-modelling">Integrated Data Science & AI Modelling</a></li>
 							<li><a  href="/laboratory-services">Laboratory Services</a></li>
@@ -124,7 +124,7 @@
 							<li class="m-0"><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
 						</ul>
 					</div>
-					
+
 				</div>
 			</div>
 		</div>
