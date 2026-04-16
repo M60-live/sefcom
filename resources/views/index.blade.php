@@ -32,7 +32,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-lg-4 col-xl-6">
-                    <div class="grow-business-img z-index-1 position-relative"><img src="/images/services/mining.png" alt="image" /></div>
+                    <div class="grow-business-img z-index-1 position-relative"><img src="/images/home/intro.jpeg" alt="image" /></div>
                 </div>
                 <div class="col-md-12 col-lg-8 col-xl-6">
                     <div class="grow-info">
