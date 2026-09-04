@@ -23,10 +23,9 @@
                 <div class="footer-widget">
                     <h3 class="footer-widget-title position-relative va-lb-line-w50-h2-primary pb-15 mb-20 color-white">Contact Us</h3>
                     <ul class="widget-contact-info color-white icon-primary link-list-b-5 mt-30">
-                        <li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span> +27 71 723 4937 / +233 24 514 2414</li>
+                        <li><span class="mr-20"><i class="fa fa-phone" aria-hidden="true"></i></span> +27 71 723 4937</li>
                         <li><span class="mr-20"><i class="fa fa-envelope" aria-hidden="true"></i></span>info@sefcomenvironmental.com</li>
                         <li><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>28 Lemoendoring Street, Weltevredenpark, 1709, Johannesburg, South Africa</li>
-                        <li><span class="mr-20"><i class="fa fa-map-marker" aria-hidden="true"></i></span>35 HFC Estate, Community 25, Tema, Ghana</li>
                     </ul>
                 </div>
             </div>

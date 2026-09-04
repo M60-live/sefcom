@@ -63,7 +63,7 @@
 							<li>
 								Phone :
 								<span><b>South Africa:</b> +27 71 723 4937</span>
-                                <span><b>Ghana:</b> +233 24 514 2414</span>
+                                
 							</li>
 							<li>
 								Email :
@@ -72,7 +72,7 @@
 							<li>
 								Address :
 								<span><b>South Africa:</b> 28 Lemoendoring Street, Weltevredenpark, 1709, Johannesburg, South Africa</span>
-                                <span><b>Ghana:</b> 35 HFC Estate, Community 25, Tema, Ghana</span>
+                                
 							</li>
 						</ul>
 					</div>
